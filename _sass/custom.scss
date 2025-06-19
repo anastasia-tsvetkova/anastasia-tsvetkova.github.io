@@ -3,7 +3,8 @@
 
 // Starry background styles
 body {
-    background: url('/assets/images/stars.jpg') no-repeat center center fixed;
+    // background: url('/assets/images/stars.jpg') no-repeat center center fixed;
+    background: url("{{ '/assets/images/stars.jpg' | relative_url }}") no-repeat center center fixed;
     background-size: cover;
 }
 
