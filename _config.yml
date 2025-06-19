@@ -1,8 +1,9 @@
-# title: Anastasia Tsvetkova
-# description: My professional website
+title: Anastasia Tsvetkova
+description: My professional website
 theme: minima
 plugins:
   - jekyll-feed
+footer_text: false  # отключает стандартную подпись GitHub Pages
 
 # Site navigation
 navigation:
