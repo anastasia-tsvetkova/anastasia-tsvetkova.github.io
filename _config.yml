@@ -1,0 +1,24 @@
+title: Anastasia Tsvetkova
+description: My professional website
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Site navigation
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "News"
+    link: "/news"
+  - name: "CV"
+    link: "/cv"
+  - name: "Research"
+    link: "/research"
+  - name: "Collaborations"
+    link: "/collaborations"
+  - name: "Teaching/Mentoring"
+    link: "/teaching"
+  - name: "Links"
+    link: "/links"
