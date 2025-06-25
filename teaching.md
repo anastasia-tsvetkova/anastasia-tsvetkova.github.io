@@ -1,3 +1,9 @@
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
+
 # Teaching
     Autumn 2024: Lecturing of  half (24 h) of the MSc course “Astrophysics” at the University of Cagliari.
 
