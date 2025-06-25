@@ -14,22 +14,22 @@ plugins:
 
 # Site navigation
 nav_pages:
-  - name: "Home"
-    link: "/"
-  - name: "About"
-    link: "/about"
-  - name: "News"
-    link: "/news"
-  - name: "CV"
-    link: "/cv"
-  - name: "Research"
-    link: "/research"
-  - name: "Collaborations"
-    link: "/collaborations"
-  - name: "Teaching/Mentoring"
-    link: "/teaching"
-  - name: "Links"
-    link: "/links"
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "News"
+    url: "/news/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Collaborations"
+    url: "/collaborations/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Links"
+    url: "/links/"
 
 # Defaults
 defaults:
