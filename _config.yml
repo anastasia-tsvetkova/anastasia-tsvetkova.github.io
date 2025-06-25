@@ -1,12 +1,19 @@
-# title: Anastasia Tsvetkova
-# description: My professional website
+title: Anastasia Tsvetkova
+email: "tsvetkova.lea at gmail.com"
+description: "Academic website of Anastasia Tsvetkova"
+baseurl: ""
+url: "https://anastasia-tsvetkova.github.io"
+github_username: anastasia-tsvetkova
+
+# Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-footer_text: false  # отключает стандартную подпись GitHub Pages
+# footer_text: false  # отключает стандартную подпись GitHub Pages
 
 # Site navigation
-navigation:
+nav_pages:
   - name: "Home"
     link: "/"
   - name: "About"
@@ -23,3 +30,11 @@ navigation:
     link: "/teaching"
   - name: "Links"
     link: "/links"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
