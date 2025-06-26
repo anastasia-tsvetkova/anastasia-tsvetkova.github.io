@@ -9,7 +9,7 @@ permalink: /cv/
 [Peer-reviewed papers on ADS](https://ui.adsabs.harvard.edu/public-libraries/Pkam8mgQQHuv1FsdqrzuBQ)
 
 ### Education
-- **PhD in Physics and Mathematics (09/2014–06/2018)** (Major: Astrophysics and Astronomy), Ioffe Institute , 2014-2018
+- **PhD in Physics and Mathematics (09/2014–06/2018)** (Major: Astrophysics and Astronomy), Ioffe Institute, 2014-2018
 - **MSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 2006-2008
 - **MSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 2002-2006
 
