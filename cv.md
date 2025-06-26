@@ -36,4 +36,4 @@ Cagliari, Italy, 2022-2023
 ### Professional Service
 - Reviewer for ApJ
 - Co-author of 700+ GCN circulars.
-{%- SOC for COSPAR 2026%}
+<!-- - SOC for COSPAR 2026 -->
