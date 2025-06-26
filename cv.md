@@ -19,9 +19,7 @@ Cagliari, Italy, 2024-2026
 - **Postdoctoral researcher**, High-Energy Astrophysics Group, Department of Physics, University of
 Cagliari, Italy, 2022-2023
 - **Postdoctoral researcher**, High-Energy Astrophysics Group, Max Planck Institute for Extraterrestrial Physics, Garching bei M¨unchen, Germany, 2020-2021
-- **Researcher**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute of Russian Academy of Sciences, St. Petersburg, Russia, 2019-2020
-- **Junior researcher**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute of Russian Academy of Sciences, St. Petersburg, Russia, 2010-2018
-- **Research assistant**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute of Russian Academy of Sciences, St. Petersburg, Russia, 2008-2010
+- **Researcher** (2019-2020), **Junior researcher** (2010-2018), **Research assistant** (2008-2010), Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute of Russian Academy of Sciences, St. Petersburg, Russia
 
 ### Selected Publications
 - [The Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
