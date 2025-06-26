@@ -4,11 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Teaching
+## Teaching
 + Autumn 2024: Lecturing of  half (24 h) of the MSc course “Astrophysics” at the University of Cagliari.
 
-# Mentoring
-## MSc projects
+## Mentoring
+### MSc projects
 + Student: Valeria Ishutina, Peter the Great St. Petersburg Polytechnic University
 
   Thesis: Properties of light curves of GRBs observed by Konus-Wind
@@ -27,7 +27,7 @@ permalink: /teaching/
 
   Autumn 2024–present
   
-## BSc projects
+### BSc projects
 + Student: Valeria Ishutina (Ivanova), Peter the Great St. Petersburg Polytechnic University
 
   Thesis: Temporal variability of Konus-Wind GRBs
