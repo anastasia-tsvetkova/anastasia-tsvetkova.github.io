@@ -27,7 +27,7 @@ Cagliari, Italy, 2022-2023.
 - [The Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
 - [The Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. II. Waiting-Mode Bursts Simultaneously Detected by Swift/BAT](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...83T/abstract)
 - [Key Space and Ground Facilities in GRB Science](https://ui.adsabs.harvard.edu/abs/2022Univ....8..373T/abstract)
-- [A Concept of Assessment of LIV Tests with THESEUS Using the Gamma-Ray Bursts Detected by Fermi/GBM](https://ui.adsabs.harvard.edu/abs/2023Univ....9..359T/abstract)
+<!-- - [A Concept of Assessment of LIV Tests with THESEUS Using the Gamma-Ray Bursts Detected by Fermi/GBM](https://ui.adsabs.harvard.edu/abs/2023Univ....9..359T/abstract) -->
 - [Gamma-ray burst taxonomy: Looking for the third class on the spectral peak energy-duration plane in the rest frame](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
 
 ### Grants and Awards
