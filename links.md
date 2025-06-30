@@ -31,7 +31,8 @@ permalink: /links/
 
 ### Academic Resources
 - [arXiv](https://arxiv.org) - Preprint repository
-<!-- - [DOI Lookup](https://www.doi.org/) - Find academic papers
+<!-- 
+- [DOI Lookup](https://www.doi.org/) - Find academic papers
 - [Zotero](https://www.zotero.org) - Reference manager -->
 - [Astrophysics Data System](https://ui.adsabs.harvard.edu/) - Digital library portal
 
