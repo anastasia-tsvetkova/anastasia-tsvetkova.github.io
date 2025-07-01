@@ -28,6 +28,7 @@ permalink: /links/
 ### Solar flares
 - [KW](http://www.ioffe.ru/LEA/sun.html) - Solar physics with Konus-Wind
 - [SFAR](http://www.ioffe.ru/LEA/SF_AR/) - Solar Flares and Active Regions: Reconstructing the 3D Reality (PI Gregory D. Fleishman)
+- [More links](https://www.ioffe.ru/LEA/SF_AR/links.html) - Collection of useful links from SFAR
 
 ### Academic Resources
 - [arXiv](https://arxiv.org) - Preprint repository
