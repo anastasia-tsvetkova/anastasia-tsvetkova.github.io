@@ -6,12 +6,14 @@ permalink: /links/
 
 ## Selected Useful Links
 
+<!--
 ### Professional Profiles
 - [GitHub](https://github.com/{{ site.github_username }})
 - [Google Scholar](https://scholar.google.com/citations?user=ID)
 - [ORCID](https://orcid.org/your-orcid)
 - [ResearchGate](https://www.researchgate.net/profile/Your-Name)
 - [LinkedIn](https://linkedin.com/in/yourprofile)
+-->
 
 ### GRB databases
 - [KW](http://www.ioffe.ru/LEA/kw/triggers/) - Konus-Wind triggered events
@@ -34,7 +36,8 @@ permalink: /links/
 - [arXiv](https://arxiv.org) - Preprint repository
 <!-- 
 - [DOI Lookup](https://www.doi.org/) - Find academic papers
-- [Zotero](https://www.zotero.org) - Reference manager -->
+- [Zotero](https://www.zotero.org) - Reference manager 
+-->
 - [Astrophysics Data System](https://ui.adsabs.harvard.edu/) - Digital library portal
 
 ### Institutional Links
