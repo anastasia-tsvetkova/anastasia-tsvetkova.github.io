@@ -16,10 +16,10 @@ Dmitry Frederiks, Dmitry Svinkin, Anna Ridnaia, Alexandra Lysenko.
 Filippo Frontera, Cristiano Guidorzi, Lorenzo Amati, Mattia Bulla, Romain Loic Maccary, Manuele Maistrello.
 
 ### INAF/Palermo + UniPa team
-Luciano Burderi, Tiziana di Salvo, Wladimiro Leone
+Luciano Burderi, Tiziana di Salvo, Wladimiro Leone.
 
 ### GSSI team
-Gor Oganesyan, Biswajit Banerjee, Alessio Mei
+Gor Oganesyan, Biswajit Banerjee, Alessio Mei.
 
 ### Solar flares
-Gregory D. Fleishman, Alexandra Lysenko, Galina Motorina
+Gregory D. Fleishman, Alexandra Lysenko, Galina Motorina.
