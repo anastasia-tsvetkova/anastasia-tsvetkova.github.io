@@ -10,7 +10,7 @@ Dmitry Frederiks, Dmitry Svinkin, Anna Ridnaia, Alexandra Lysenko.
 ### KW junior team
 ![photo](/assets/images/students.jpg){: width="300"}
 
-[Students](/teaching.html) from left to right: Polina Krupina, Sofia Belova, Fyodor Sviridov, Valeria Ishutina, Julia Epifanova.
+[Students](/teaching/) from left to right: Polina Krupina, Sofia Belova, Fyodor Sviridov, Valeria Ishutina, Julia Epifanova.
 
 ### UniFe + INAF-Bologna team
 Filippo Frontera, Cristiano Guidorzi, Lorenzo Amati, Mattia Bulla, Romain Loic Maccary, Manuele Maistrello.
