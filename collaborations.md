@@ -5,7 +5,7 @@ permalink: /collaborations/
 ---
 
 ### [KW team](http://www.ioffe.ru/LEA/staff.html)
-Dmitry Frederiks, Dmitry Svinkin, Anna Ridnaia, Alexandra Lysenko.
+Dmitry Frederiks, Dmitry Svinkin, Anna Ridnaia, Alexandra Lysenko, Mikhail Ulanov.
 
 ### KW junior team
 ![photo](/assets/images/students.JPG){: width="300"}
