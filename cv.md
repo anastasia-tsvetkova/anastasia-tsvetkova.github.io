@@ -6,6 +6,10 @@ permalink: /cv/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-tsvetkova-a17196192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
+[![GitHub](assets/images/github-mark.png)](https://github.com/anastasia-tsvetkova)
+
+
+
 [Download PDF version of CV](/assets/docs/cv.pdf)
 
 [Peer-reviewed papers on ADS](https://ui.adsabs.harvard.edu/public-libraries/Pkam8mgQQHuv1FsdqrzuBQ)
