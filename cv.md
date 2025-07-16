@@ -4,9 +4,10 @@ title: CV
 permalink: /cv/
 ---
 
-[![Google Scholar](assets/images/Google_Scholar_logo.svg)](https://scholar.google.fi/citations?hl=en&user=tWnsMS0AAAAJ){: width="100px"}
-[![GitHub](assets/images/github-mark.png)](https://github.com/anastasia-tsvetkova){: width="100px"}
-[![LinkedIn](assets/images//LI-In-Bug.png)](https://www.linkedin.com/in/anastasia-tsvetkova-a17196192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app){: width="100px"}
+[![ResearchGate](assets/images/ResearchGate_icon_SVG.svg.png){: width="100px"}](https://www.researchgate.net/profile/Anastasia-Tsvetkova)
+[![Google Scholar](assets/images/Google_Scholar_logo.svg){: width="100px"}](https://scholar.google.fi/citations?hl=en&user=tWnsMS0AAAAJ)
+[![GitHub](assets/images/github-mark.png){: width="100px"}](https://github.com/anastasia-tsvetkova)
+[![LinkedIn](assets/images//LI-In-Bug.png){: width="100px"}](https://www.linkedin.com/in/anastasia-tsvetkova-a17196192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 
