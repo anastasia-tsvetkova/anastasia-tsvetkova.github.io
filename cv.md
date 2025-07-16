@@ -4,11 +4,11 @@ title: CV
 permalink: /cv/
 ---
 ORCID_iD.svg.png
-[![ORCID](assets/images/ORCID_iD.svg.png){: height="50px"}](https://orcid.org/0000-0003-0292-6221)
-[![ResearchGate](assets/images/ResearchGate_icon_SVG.svg.png){: height="50px"}](https://www.researchgate.net/profile/Anastasia-Tsvetkova)
-[![Google Scholar](assets/images/Google_Scholar_logo.svg){: height="50px"}](https://scholar.google.fi/citations?hl=en&user=tWnsMS0AAAAJ)
-[![GitHub](assets/images/github-mark.png){: height="50px"}](https://github.com/anastasia-tsvetkova)
-[![LinkedIn](assets/images//LI-In-Bug.png){: height="50px"}](https://www.linkedin.com/in/anastasia-tsvetkova-a17196192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![ORCID](assets/images/ORCID_iD.svg.png){: height="30px"}](https://orcid.org/0000-0003-0292-6221)
+[![ResearchGate](assets/images/ResearchGate_icon_SVG.svg.png){: height="30px"}](https://www.researchgate.net/profile/Anastasia-Tsvetkova)
+[![Google Scholar](assets/images/Google_Scholar_logo.svg){: height="30px"}](https://scholar.google.fi/citations?hl=en&user=tWnsMS0AAAAJ)
+[![GitHub](assets/images/github-mark.png){: height="30px"}](https://github.com/anastasia-tsvetkova)
+[![LinkedIn](assets/images//LI-In-Bug.png){: height="30px"}](https://www.linkedin.com/in/anastasia-tsvetkova-a17196192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 
