@@ -4,6 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
+{% include icon.html name="github" %}
+
 [Download PDF version of CV](/assets/docs/cv.pdf)
 
 [Peer-reviewed papers on ADS](https://ui.adsabs.harvard.edu/public-libraries/Pkam8mgQQHuv1FsdqrzuBQ)
