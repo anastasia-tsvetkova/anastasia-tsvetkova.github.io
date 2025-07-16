@@ -4,9 +4,9 @@ title: CV
 permalink: /cv/
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-tsvetkova-a17196192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-[![GitHub](assets/images/github-mark.png)](https://github.com/anastasia-tsvetkova)
+[![Google Scholar](assets/images/Google_Scholar_logo.svg)](https://scholar.google.fi/citations?hl=en&user=tWnsMS0AAAAJ){: width="100px"}
+[![GitHub](assets/images/github-mark.png)](https://github.com/anastasia-tsvetkova){: width="100px"}
+[![LinkedIn](assets/images//LI-In-Bug.png)](https://www.linkedin.com/in/anastasia-tsvetkova-a17196192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app){: width="100px"}
 
 
 
