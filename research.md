@@ -10,7 +10,7 @@ permalink: /research/
 - [KW GRBs with known redshifts detected in the triggered mode]()
 - [KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT]()
 - [2D Classification of GRBs in their rest-frame]()
-- [The main facilities detecting GRBs across all the wevelengths]()
+- [The main facilities detecting GRBs across all wevelengths]()
 - [How can we witness the Lorentz Invariance violation with GRBs?]()
 
 <!--#### Related Publications
@@ -20,6 +20,7 @@ permalink: /research/
 ### Secondary Research Area
 - [Nature paper]()
 - [Nature astronomy paper]
+- [Gravitational lensing]
 - [Other papers]
 - [Solar flares]
 
@@ -43,3 +44,6 @@ permalink: /research/
 - [KW-software](https://github.com/anastasia-tsvetkova/KW-software): Some python scripts and Jupyter notebooks for preprocessing of Konus-Wind data.
 - [KW GRBs with known z part I](http://www.ioffe.ru/LEA/zGRBs/triggered/): ASCII data sets and figures of GRB light curves and XSpec plots of spectral fits for the "Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode".
 - [KW GRBs with known z part II](http://www.ioffe.ru/LEA/zGRBs/part2/): ASCII data sets and figures of GRB light curves and XSpec plots of spectral fits for "the Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. II. Waiting Mode Bursts Simultaneously Detected by Swift/BAT".
+
+### Theses
+- [My PhD thesis (in Russian)]()
