@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Teaching
+## Lecturing
 + Autumn 2024: Lecturing of a half (24 h) of the MSc course “Astrophysics” at the University of Cagliari.
 
 ## Mentoring
@@ -58,7 +58,7 @@ permalink: /teaching/
 
   Autumn 2024–present
 
-## Thesis reviewer
+## Thesis reviewing
 + Student: Nadezhda Lyashenko, Peter the Great St. Petersburg Polytechnic University
 
   MSc Thesis: Spectral analysis of short GRBs detected by Fermi /GBM
