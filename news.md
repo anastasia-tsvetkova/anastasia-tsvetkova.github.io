@@ -6,14 +6,9 @@ permalink: /news/
 
 ## News & Updates
 
-### June 2023
-Our paper "Paper Title" has been accepted at Conference Name.
+### June 2025
+Our paper [Clustering] has been published in A&A.
+Our paper [Short KW GRBs III] has been published in PASA.
 
-### May 2023
-Invited to give a talk at Event Name on Topic.
-
-### March 2023
-Joined the program committee for Conference Name 2023.
-
-### January 2023
-Started collaboration with Researcher Name on Project.
+### May 2025
+[Cristiano's paper] has been published in A&A.
