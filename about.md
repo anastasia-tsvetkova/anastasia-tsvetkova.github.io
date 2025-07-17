@@ -7,7 +7,7 @@ permalink: /about/
 ![photo](/assets/images/Bewerbungsfoto1.jpg){: width="300"}
 
 I am a limited-term Assistant professor in the [Department of Physics](https://web.unica.it/unica/en/dip_fisica.page) at the [University of Cagliari](https://en.unica.it/en) and a member of the [Konus-Wind team](http://www.ioffe.ru/LEA/index.html) at [Ioffe institute](https://en.wikipedia.org/wiki/Ioffe_Institute).
-I work in the area of time-domain astronomy to investigate the most extreme astrophysical transients, from Gamma-ray bursts (GRBs) to Soft gamma-repeaters and Solar flares. I am particularly excited by doing the population studies of GRBs.
+I work in the area of time-domain astronomy to investigate the most extreme astrophysical transients, from Gamma-ray bursts (GRBs) to Soft gamma-repeaters and Solar flares. I am particularly excited by doing population studies of GRBs.
 
 I completed my PhD studies in the Laboratory for Experimental Astrophysics at Ioffe Institute (Saint Petersburg, Russia) working for the [Konus-Wind](https://www.ioffe.ru/LEA/kw/index.html) (KW) data.
 As a PhD student, I mostly focused on the studies of GRBs with known redshifts detected in the triggered mode of the KW experiment.
