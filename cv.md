@@ -17,19 +17,19 @@ permalink: /cv/
 [Peer-reviewed papers on ADS](https://ui.adsabs.harvard.edu/public-libraries/Pkam8mgQQHuv1FsdqrzuBQ)
 
 ### Education
-- **PhD in Physics and Mathematics** (Major: Astrophysics and Astronomy), Ioffe Institute, 2014-2018.
-- **MSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 2006-2008.
-- **MSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 2002-2006.
+- **PhD in Physics and Mathematics** (Major: Astrophysics and Astronomy), Ioffe Institute, 09/2014-06/2018.
+- **MSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 09/2006-12/2008.
+- **MSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 09/2002-06/2006.
 
 ### Academic Positions
 - **Assistant Professor (RTDa)**, High-Energy Astrophysics Group, Department of Physics, University of
-Cagliari, Italy, 2024-2026.
+Cagliari, Italy, 06/2023-05/2026.
 - **Postdoctoral Researcher**, High-Energy Astrophysics Group, Department of Physics, University of
-Cagliari, Italy, 2022-2023.
-- **Postdoctoral Researcher**, High-Energy Astrophysics Group, Max Planck Institute for Extraterrestrial Physics, Garching bei München, Germany, 2020-2021.
-- **Researcher**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 2019-2020.
-- **Junior Researcher**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 2010-2018.
-- **Research Assistant** , Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 2008-2010.
+Cagliari, Italy, 05/2022-04/2023.
+- **Postdoctoral Researcher**, High-Energy Astrophysics Group, Max Planck Institute for Extraterrestrial Physics, Garching bei München, Germany, 10/2020-12/2021.
+- **Researcher**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 01/2019-09/2020.
+- **Junior Researcher**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 09/2010-12/2018.
+- **Research Assistant** , Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 07/2008-08/2010.
 
 ### Selected Publications
 - [The Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
