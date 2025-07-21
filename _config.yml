@@ -1,6 +1,6 @@
 title: Anastasia Tsvetkova
-email: "tsvetkova.lea at gmail.com"
-description: "Academic website of Anastasia Tsvetkova"
+email: "tsvetkova.lea(at)gmail.com"
+description: "Website of Anastasia Tsvetkova"
 baseurl: ""
 url: "https://anastasia-tsvetkova.github.io"
 github_username: anastasia-tsvetkova
@@ -28,6 +28,8 @@ nav_pages:
     url: "/collaborations/"
   - title: "Teaching"
     url: "/teaching/"
+  - title: "Konus-Wind"
+    url: "/kw/"
   - title: "Links"
     url: "/links/"
 
