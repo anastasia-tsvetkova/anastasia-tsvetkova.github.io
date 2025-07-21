@@ -176,7 +176,7 @@ The accurate localization of gamma-ray bursts (GRBs) remains a crucial task. His
 ### Current Projects
 **KW + BeppoSAX/WFC looking together towards synchrotron emission in GRBs**
 
-[![Figure](assets/images/kw_wfc.png){: width="300px"}]
+![Figure](assets/images/kw_wfc.png){: width="300px"}
 
 The combination of Konus-Wind (KW) (20 keV–15 MeV) and BeppoSAX/WFC (2–28 keV) provideы a broadband spectral coverage crucial for identifying synchrotron radiation as the dominant emission mechanism in GRB prompt phases. 
 It also allows studies of multi-component GRB emission.
@@ -186,7 +186,7 @@ Currently, we are finishing joint analysis of a couple of dozen of GRBs with phe
 
 **Multi-Dimensional Classification of GRBs in their rest-frame**
 
-[![Figure](assets/images/multi-d_clustering.png){: width="300px"}]
+![Figure](assets/images/multi-d_clustering.png){: width="300px"}
 
 Moving beyond the simplistic long-soft/short-hard dichotomy, multi-dimensional rest-frame classification reveals a richer GRB taxonomy linked to progenitors, central engines, and jet physics. Machine learning and multi-wavelength data are key to unlocking this complexity.
 
