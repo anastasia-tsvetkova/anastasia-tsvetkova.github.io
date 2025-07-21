@@ -210,7 +210,13 @@ The accurate localization of gamma-ray bursts (GRBs) remains a crucial task. His
 -->
 
 ### Research Tools & Resources
-- [lc_pulse_avalanche](https://github.com/anastasia-tsvetkova/lc_pulse_avalanche): A piece of code that creates GRB light curve generating a stochastic pulse avalanche according to [Stern & Svensson (1996)](https://ui.adsabs.harvard.edu/abs/1996ApJ...469L.109S/abstract).
+[![Figure](assets/images/avalanche.png){: width="300px"}](https://github.com/anastasia-tsvetkova/lc_pulse_avalanche)
+
+`lc_pulse_avalanche`: A piece of code that creates GRB light curve generating a stochastic pulse avalanche according to [Stern & Svensson (1996)](https://ui.adsabs.harvard.edu/abs/1996ApJ...469L.109S/abstract).
+
+# &nbsp;
+
+
 - [make_BAT_PHA_and_slew_corrected_DRM](https://github.com/anastasia-tsvetkova/make_BAT_PHA_and_slew_corrected_DRM): A class in python and a jupyter notebook providing an example of usage. The class includes methods to make pha- and rsp-files from Swift/BAT event files. The DRM-files will be corrected for the s/c slew if necessary.
 - [KW-software](https://github.com/anastasia-tsvetkova/KW-software): Some python scripts and Jupyter notebooks for preprocessing of Konus-Wind data.
 - [KW GRBs with known z part I](http://www.ioffe.ru/LEA/zGRBs/triggered/): ASCII data sets and figures of GRB light curves and XSpec plots of spectral fits for the "Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode".
