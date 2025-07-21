@@ -17,7 +17,7 @@ In this catalog, we present the results of a systematic study of gamma-ray burst
 </div>
 </details>
 
-# &nbsp; {style="visibility:hidden"}
+# &nbsp;
 
 
 <!--
