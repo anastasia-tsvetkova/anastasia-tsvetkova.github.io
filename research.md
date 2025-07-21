@@ -7,9 +7,10 @@ permalink: /research/
 ## Selected Research Projects
 
 ### Primary Research Area
-[![Figure](assets/images/grbfr1.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
 
 **KW GRBs with known redshifts detected in the triggered mode**
+[![Figure](assets/images/grbfr1.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
+
 <details>
 <summary>See the abstract</summary>
 <div markdown="1">
