@@ -7,8 +7,8 @@ permalink: /research/
 ## Selected Research Projects
 
 ### Primary Research Area
-[![](assets/images/grbfr1.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
-
+[![Figure](assets/images/grbfr1.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
+**KW GRBs with known redshifts detected in the triggered mode**
 <details>
 <summary>See the abstract</summary>
 <div markdown="1">
@@ -16,28 +16,60 @@ In this catalog, we present the results of a systematic study of gamma-ray burst
 </div>
 </details>
 
-
-|---------------|----------------|
-| **KW GRBs with known redshifts detected in the triggered mode** | **KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT** |
+<!--
+| **KW GRBs with known redshifts detected 
+in the triggered mode** | **KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT** |
 | ![Figure](assets/images/grbfr1.jpeg) | ![Figure](assets/images/grbfr1.jpeg) |
-| `<details>
+| <details>
 <summary>See the abstract</summary>
 <div markdown="1">
 In this catalog, we present the results of a systematic study of gamma-ray bursts (GRBs) with reliable redshift estimates detected in the triggered mode of the Konus-Wind (KW) experiment during the period from 1997 February to 2016 June. The sample consists of 150 GRBs (including 12 short/hard bursts) and represents the largest set of cosmological GRBs studied to date over a broad energy band. From the temporal and spectral analyses of the sample, we provide the burst durations, the spectral lags, the results of spectral fits with two model functions, the total energy fluences, and the peak energy fluxes. Based on the GRB redshifts, which span the range 0.1≤slant z≤slant 5, we estimate the rest-frame, isotropic-equivalent energy, and peak luminosity. For 32 GRBs with reasonably constrained jet breaks, we provide the collimation-corrected values of the energetics. We consider the behavior of the rest-frame GRB parameters in the hardness-duration and hardness-intensity planes, and confirm the “Amati” and “Yonetoku” relations for Type II GRBs. The correction for the jet collimation does not improve these correlations for the KW sample. We discuss the influence of instrumental selection effects on the GRB parameter distributions and estimate the KW GRB detection horizon, which extends to z∼ 16.6, stressing the importance of GRBs as probes of the early universe. Accounting for the instrumental bias, we estimate the KW GRB luminosity evolution, luminosity and isotropic-energy functions, and the evolution of the GRB formation rate, which are in general agreement with those obtained in previous studies.
 </div>
 </details>
- | <details>
+| <details>
 <summary>See the abstract</summary>
 <div markdown="1">
 In this catalog, we present the results of a systematic study of gamma-ray bursts (GRBs) with reliable redshift estimates detected in the triggered mode of the Konus-Wind (KW) experiment during the period from 1997 February to 2016 June. The sample consists of 150 GRBs (including 12 short/hard bursts) and represents the largest set of cosmological GRBs studied to date over a broad energy band. From the temporal and spectral analyses of the sample, we provide the burst durations, the spectral lags, the results of spectral fits with two model functions, the total energy fluences, and the peak energy fluxes. Based on the GRB redshifts, which span the range 0.1≤slant z≤slant 5, we estimate the rest-frame, isotropic-equivalent energy, and peak luminosity. For 32 GRBs with reasonably constrained jet breaks, we provide the collimation-corrected values of the energetics. We consider the behavior of the rest-frame GRB parameters in the hardness-duration and hardness-intensity planes, and confirm the “Amati” and “Yonetoku” relations for Type II GRBs. The correction for the jet collimation does not improve these correlations for the KW sample. We discuss the influence of instrumental selection effects on the GRB parameter distributions and estimate the KW GRB detection horizon, which extends to z∼ 16.6, stressing the importance of GRBs as probes of the early universe. Accounting for the instrumental bias, we estimate the KW GRB luminosity evolution, luminosity and isotropic-energy functions, and the evolution of the GRB formation rate, which are in general agreement with those obtained in previous studies.
 </div>
 </details>
  |
+-->
 
-- [](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...83T/abstract)
-- [2D Classification of GRBs in their rest-frame](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
-- [The main facilities detecting GRBs across all wevelengths](https://ui.adsabs.harvard.edu/abs/2022Univ....8..373T/abstract)
-- [How can we witness the Lorentz Invariance violation with GRBs?](https://ui.adsabs.harvard.edu/abs/2023Univ....9..359T/abstract)
+[![Figure](assets/images/kw_grbs2.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...83T/abstract)
+**KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT**
+<details>
+<summary>See the abstract</summary>
+<div markdown="1">
+In the second part of The Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts (the first part: Tsvetkova et al. 2017; T17), we present the results of a systematic study of gamma-ray bursts (GRBs) with reliable redshift estimates detected simultaneously by the Konus-Wind (KW) experiment (in the waiting mode) and by the Swift/BAT (BAT) telescope during the period from 2005 January to the end of 2018. By taking advantage of the high sensitivity of BAT and the wide spectral band of KW, we were able to constrain the peak spectral energies, the broadband energy fluences, and the peak fluxes for the joint KW-BAT sample of 167 weak, relatively soft GRBs (including four short bursts). Based on the GRB redshifts, which span the range 0.04 ≤ z ≤ 9.4, we estimate the rest frame, isotropic-equivalent energy, and peak luminosity. For 14 GRBs with reasonably constrained jet breaks, we provide the collimation-corrected values of the energetics. This work extends the sample of KW GRBs with known redshifts to 338 GRBs, the largest set of cosmological GRBs studied to date over a broad energy band. With the full KW sample, accounting for the instrumental bias, we explore GRB rest-frame properties, including hardness-intensity correlations, GRB luminosity evolution, luminosity and isotropic-energy functions, and the evolution of the GRB formation rate, which we find to be in general agreement with those reported in T17 and other previous studies.
+</div>
+</details>
+
+[![Figure](assets/images/clustering_2017.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
+**2D Classification of GRBs in their rest-frame**
+<details>
+<summary>See the abstract</summary>
+<div markdown="1">
+Context. Two classes of gamma-ray bursts (GRBs) corresponding to the short-hard and the long-soft events, with a putative intermediate class, are typically considered in the observer frame. However, when considering GRB characteristics in the cosmological rest frame, the boundary between the classes becomes blurred. Aims. The goal of this research is to check for evidences of a third 'intermediate' class of GRBs and investigate how the transformation from the observer to the rest frame affects the hardness-duration-based classification. Methods. We applied fits with skewed and non-skewed (symmetric) Gaussian and Student distributions to a sample of 409 GRBs with reliably measured redshifts to cluster the bursts on the hardness (Ep) – duration (T90) plane. Results. We find that based on AIC/BIC criteria, the statistically preferred number of clusters on the GRB rest-frame hardness-duration plane does not exceed two. We also assessed the robustness of the clustering technique. Conclusions. We did not find any solid evidence of an intermediate GRB class on the rest-frame hardness-duration plane.
+</div>
+</details>
+
+[![Figure](assets/images/grb_facilities.png){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2022Univ....8..373T/abstract)
+**The main facilities detecting GRBs across all wavelengths**
+<details>
+<summary>See the abstract</summary>
+<div markdown="1">
+Gamma-ray bursts (GRBs) are short and intense flashes of γ-rays coming from deep space. GRBs were discovered more than a half century ago and now are observed across the whole electromagnetic spectrum from radio to very-high-energy gamma rays. They carry information about the powerful energy release during the final stage of stellar evolution, as well as properties of matter on the way to the observer. At present, space-based observatories detect on average approximately one GRB per day. In this review, we summarize key space and ground facilities that contribute to the GRB studies.
+</div>
+</details>
+
+[![Figure](grb_qg.png){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2023Univ....9..359T/abstract)
+**How can we witness the Lorentz Invariance violation with GRBs?**
+<details>
+<summary>See the abstract</summary>
+<div markdown="1">
+According to Einstein's special relativity theory, the speed of light in a vacuum is constant for all observers. However, quantum gravity effects could introduce its dispersion depending on the energy of photons. The investigation of the spectral lags between the gamma-ray burst (GRB) light curves recorded in distinct energy ranges could shed light on this phenomenon: the lags could reflect the variation of the speed of light if it is linearlydependent on the photon energy and a function of the GRB redshift. We propose a methodology to start investigating the dispersion law of light propagation in a vacuum using GRB light curves. This technique is intended to be fully exploited using the GRB data collected with THESEUS.
+</div>
+</details>
 
 <!--#### Related Publications
 - Paper Title (Year) [Link](#)
