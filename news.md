@@ -16,4 +16,4 @@ permalink: /news/
 - Our paper [High energy time lags of gamma-ray bursts](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.161M/abstract) has been published in A&A.
 
 ### April 2025
-- Our paper [Soft X-ray prompt emission from the high-redshift gamma-ray burst EP240315a](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..564L/abstract)(https://ui.adsabs.harvard.edu/abs/2025NatAs...9..564L/abstract) has been published in Nat. Astr.
+- Our paper [Soft X-ray prompt emission from the high-redshift gamma-ray burst EP240315a](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..564L/abstract) has been published in Nat. Astr.
