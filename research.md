@@ -17,11 +17,23 @@ In this catalog, we present the results of a systematic study of gamma-ray burst
 </div>
 </details>
 
-| Левая колонка | Правая колонка |
-|---------------|----------------|
-| Текст слева   | Текст справа   |
-| ![Изображение](assets/images/grbfr1.jpeg) | ![Изображение](assets/images/grbfr1.jpeg) |
-| `код`         | **жирный**     |
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div markdown="1">
+
+**Левая колонка**  
+Текст с Markdown-разметкой  
+- Список
+- Элементы
+
+</div>
+<div markdown="1">
+
+**Правая колонка**  
+`Код` и другие элементы  
+![Иконка](assets/images/grbfr1.jpeg){: width="50"}
+
+</div>
+</div>
 
 - [KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...83T/abstract)
 - [2D Classification of GRBs in their rest-frame](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
