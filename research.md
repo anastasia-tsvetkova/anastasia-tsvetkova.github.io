@@ -19,8 +19,7 @@ permalink: /research/
 
 ### Secondary Research Area
 <!-- - [Soft X-ray prompt emission from the high-redshift gamma-ray burst EP240315a](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..564L/abstract)-->
-- [A peculiar hard X-ray counterpart of a Galactic fast radio burst](https://ui.adsabs.harvard.edu/abs/2021NatAs...5..372R/abstract)
-<details>
+- [A peculiar hard X-ray counterpart of a Galactic fast radio burst](https://ui.adsabs.harvard.edu/abs/2021NatAs...5..372R/abstract) <details>
 <summary>See the abstract</summary></summary>
 <div markdown="1">
 Fast radio bursts (FRBs) are bright, millisecond-scale radio flashes of unknown physical origin. Young, highly magnetized, isolated neutron stars—magnetars—have been suggested as the most promising candidates for FRB progenitors owing to their energetics and high X-ray flaring activity. Here we report the detection with Konus-Wind of a hard X-ray event of 28 April 2020 temporally coincident with a bright, two-peak radio burst4,5 in the direction of Galactic magnetar SGR 1935+2154, with properties remarkably similar to those of FRBs. We show that the two peaks of the double-peaked X-ray burst coincide in time with the radio peaks and infer a common source and the association of these phenomena. An unusual hardness of the X-ray spectrum strongly distinguishes the 28 April event among multiple `ordinary' flares from SGR 1935+2154. A recent non-detection of radio emission from about 100 typical soft bursts from SGR 1935+2154 favours the idea that bright, FRB-like magnetar signals are associated with rare, hard-spectrum X-ray bursts. The implied rate of these hard X-ray bursts (~0.04 yr−1 magnetar−1) appears consistent with the rate estimate4 of SGR 1935+2154-like radio bursts (0.007-0.04 yr−1 magnetar−1).
