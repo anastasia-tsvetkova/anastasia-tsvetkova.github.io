@@ -40,7 +40,7 @@ permalink: /links/
 - [Zotero](https://www.zotero.org) - Reference manager -->
 
 ### Lectures
-- [Astrophysical processes](https://www.youtube.com/watch?v=chUoBBd60tc) - An amazing course of Astrophysical processes delivered by [Prof. Cristiano Guidorzi](https://www.fe.infn.it/u/guidorzi/) in 2020 at the University of Ferrara.
+- [Astrophysical processes](https://www.youtube.com/watch?v=chUoBBd60tc) - An amazing course of 27 lectures on Astrophysical processes delivered by [Prof. Cristiano Guidorzi](https://www.fe.infn.it/u/guidorzi/) in 2020 at the University of Ferrara.
 - [GRBs part 1](https://www.youtube.com/watch?v=FtxDT2BDDpk), [GRBs part 2](https://www.youtube.com/watch?v=vyW8PFkoHfc), and [GRBs part 3](https://www.youtube.com/watch?v=2J2jVsUGo0E) - Physics & Astrophysics of Gamma-Ray Bursts by Prof. Frédéric Daigne (IAP).
 
 
