@@ -8,6 +8,7 @@ permalink: /research/
 
 ### Primary Research Area
 [![Figure](assets/images/grbfr1.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
+
 **KW GRBs with known redshifts detected in the triggered mode**
 <details>
 <summary>See the abstract</summary>
@@ -35,7 +36,9 @@ In this catalog, we present the results of a systematic study of gamma-ray burst
  |
 -->
 
+
 [![Figure](assets/images/kw_grbs2.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...83T/abstract)
+
 **KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT**
 <details>
 <summary>See the abstract</summary>
@@ -44,7 +47,9 @@ In the second part of The Konus-Wind Catalog of Gamma-Ray Bursts with Known Reds
 </div>
 </details>
 
+
 [![Figure](assets/images/clustering_2017.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
+
 **2D Classification of GRBs in their rest-frame**
 <details>
 <summary>See the abstract</summary>
@@ -53,7 +58,9 @@ Context. Two classes of gamma-ray bursts (GRBs) corresponding to the short-hard 
 </div>
 </details>
 
+
 [![Figure](assets/images/grb_facilities.png){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2022Univ....8..373T/abstract)
+
 **The main facilities detecting GRBs across all wavelengths**
 <details>
 <summary>See the abstract</summary>
@@ -62,7 +69,9 @@ Gamma-ray bursts (GRBs) are short and intense flashes of γ-rays coming from dee
 </div>
 </details>
 
+
 [![Figure](grb_qg.png){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2023Univ....9..359T/abstract)
+
 **How can we witness the Lorentz Invariance violation with GRBs?**
 <details>
 <summary>See the abstract</summary>
