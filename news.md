@@ -6,6 +6,9 @@ permalink: /news/
 
 ## News & Updates
 
+### July 2026
+- A  very bright, long-duration GRB 250706B/C has been detected by [SVOM/ECLAIRs](https://gcn.nasa.gov/circulars/40989), [Fermi-LAT](https://gcn.nasa.gov/circulars/41019), [Konus-Wind](https://gcn.nasa.gov/circulars/41027), and [Insight-HXMT/HE](https://gcn.nasa.gov/circulars/41049). Several optical telescopes observed the field of GRB, among which VLT/X-shooter was able to securely identify its redshift z = [0.942](https://gcn.nasa.gov/circulars/41022). The analysis of this event is ongoing.
+
 ### June 2025
 - Our paper [Gamma-ray burst taxonomy: Looking for the third class on the spectral peak energy-duration plane in the rest frame](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract) has been published in A&A.
 - Our paper [The third Konus-Wind catalogue of short gamma-ray bursts](https://ui.adsabs.harvard.edu/abs/2025PASA...42...63L/abstract) has been published in PASA.
@@ -17,3 +20,7 @@ permalink: /news/
 
 ### April 2025
 - Our paper [Soft X-ray prompt emission from the high-redshift gamma-ray burst EP240315a](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..564L/abstract) has been published in Nat. Astr.
+
+### March 2025
+[HERMES-SP](https://www.hermes-sp.eu) (High Energy Rapid Modular Ensemble of Satellites - Scientific Pathfinder), a constellation of six nano-satellites hosting new miniaturized detectors to probe the X-ray temporal emission of bright high-energy transients such as GRBs and the electromagnetic counterparts of Gravitational Wave Events (GWE), has been launched to the low Earth orbit (LEO) on March 25th. [![Figure](assets/images/Youtube_logo.png){: height="30px"}](https://www.youtube.com/watch?v=tRWqsYq2Rc8)
+
