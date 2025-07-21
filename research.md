@@ -178,7 +178,7 @@ The accurate localization of gamma-ray bursts (GRBs) remains a crucial task. His
 
 [![Figure](assets/images/kw_wfc.png){: width="300px"}]
 
- # &nbsp;
+# &nbsp;
 
 **Multi-D Classification of GRBs in their rest-frame**
 
@@ -210,11 +210,33 @@ The accurate localization of gamma-ray bursts (GRBs) remains a crucial task. His
 
 # &nbsp;
 
+[![Figure](assets/images/Swift.png){: width="300px"}](https://github.com/anastasia-tsvetkova/make_BAT_PHA_and_slew_corrected_DRM)
 
-- [make_BAT_PHA_and_slew_corrected_DRM](https://github.com/anastasia-tsvetkova/make_BAT_PHA_and_slew_corrected_DRM): A class in python and a jupyter notebook providing an example of usage. The class includes methods to make pha- and rsp-files from Swift/BAT event files. The DRM-files will be corrected for the s/c slew if necessary.
-- [KW-software](https://github.com/anastasia-tsvetkova/KW-software): Some python scripts and Jupyter notebooks for preprocessing of Konus-Wind data.
-- [KW GRBs with known z part I](http://www.ioffe.ru/LEA/zGRBs/triggered/): ASCII data sets and figures of GRB light curves and XSpec plots of spectral fits for the "Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode".
-- [KW GRBs with known z part II](http://www.ioffe.ru/LEA/zGRBs/part2/): ASCII data sets and figures of GRB light curves and XSpec plots of spectral fits for "the Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. II. Waiting Mode Bursts Simultaneously Detected by Swift/BAT".
+`make_BAT_PHA_and_slew_corrected_DRM`: A class in python and a jupyter notebook providing an example of usage. The class includes methods to make pha- and rsp-files from Swift/BAT event files. The DRM-files will be corrected for the s/c slew if necessary.
+
+# &nbsp;
+
+[![Figure](assets/images/KW_sc.jpg){: width="300px"}](https://github.com/anastasia-tsvetkova/KW-software)
+
+`KW-software`: Some python scripts and Jupyter notebooks for preprocessing of Konus-Wind data.
+
+# &nbsp;
+
+**KW GRBs with known z part I:** [ASCII data sets and figures](http://www.ioffe.ru/LEA/zGRBs/triggered/) of GRB light curves and XSpec plots of spectral fits for the "Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode".
+
+[![Figure](assets/images/grbfr1.jpeg){: width="300px"}]())
+
+# &nbsp;
+
+**KW GRBs with known z part I:** [ASCII data sets and figures of GRB light curves and XSpec plots of spectral fits](http://www.ioffe.ru/LEA/zGRBs/triggered/) for the "Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode".
+
+[![Figure](assets/images/grbfr1.jpeg){: width="300px"}]())
+
+# &nbsp;
+
+**KW GRBs with known z part II:** [ASCII data sets and figures of GRB light curves and XSpec plots of spectral fits](http://www.ioffe.ru/LEA/zGRBs/part2/) for "the Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. II. Waiting Mode Bursts Simultaneously Detected by Swift/BAT".
+
+[![Figure](assets/images/kw_grbs2.jpeg){: width="300px"}]())
 
 ### Theses
 - [My PhD thesis (in Russian)](assets/docs/Phd_thesis.pdf)
