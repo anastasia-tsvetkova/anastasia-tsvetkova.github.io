@@ -7,7 +7,7 @@ permalink: /research/
 ## Selected Research Projects
 
 ### Primary Research Area
-[![KW GRBs with known redshifts detected in the triggered mode](assets/images/ORCID_iD.svg.png){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
+[![KW GRBs with known redshifts detected in the triggered mode](assets/images/grbfr1.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
 
 - [KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...83T/abstract)
 - [2D Classification of GRBs in their rest-frame](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
