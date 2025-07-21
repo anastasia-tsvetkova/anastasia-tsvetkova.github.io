@@ -3,9 +3,13 @@ layout: page
 title: Home
 ---
 
-# Welcome to My Website
+# Anastasia Tsvetkova
+## Researcher in Astrophysics
 
-This is the home page of my professional website. Here you can find information about my research, teaching, mentoring, collaborations, and some useful links.
+Welcome to my website!
+I am an astrophysicist studying some of the most extreme and intriguing objects in our universe: Gamma-ray bursts (GRBs).
+
+Here you can find information about my research, teaching, mentoring, collaborations, and some useful links along with information about the Konus-Wind experiment.
 
 <!-- ## Recent Updates
 
