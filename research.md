@@ -175,21 +175,25 @@ The accurate localization of gamma-ray bursts (GRBs) remains a crucial task. His
 
 ### Current Projects
 **KW + BeppoSAX/WFC looking together towards synchrotron emission in GRBs**
-[![Figure](){: width="300px"}]
+
+[![Figure](assets/images/kw_wfc.png){: width="300px"}]
 
  # &nbsp;
 
 **Multi-D Classification of GRBs in their rest-frame**
+
 [![Figure](assets/images/multi-d_clustering.png){: width="300px"}]
 
 # &nbsp;
 
 **Variability of KW GRBs**
-![Figure](){: width="300px"}
+
+![Figure](assets/images/KW_lc.png){: width="300px"}
 
 # &nbsp;
 
 **Cross-calibration of GRB detectors using simultaneously detected bursts**
+
 ![Figure](assets/images/cross-cal.png){: width="300px"}
 
 # &nbsp;
