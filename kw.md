@@ -1,2 +1,2 @@
 ## Coming soon!
-[![Figure](assets/images/KW_sc.jpg)]
+![Figure](assets/images/KW_sc.jpg)
