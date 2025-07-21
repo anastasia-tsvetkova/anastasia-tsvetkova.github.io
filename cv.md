@@ -39,7 +39,7 @@ Cagliari, Italy, 05/2022-04/2023.
 - [Gamma-ray burst taxonomy: Looking for the third class on the spectral peak energy-duration plane in the rest frame](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
 
 ### Grants and Awards
-- EUTOPIA-SIF two-year postdoctoral fellowship at the University of Warwick (declined due to incompatibility with another job offer), 2023.
+- EUTOPIA-SIF two-year postdoctoral fellowship at the University of Warwick (respectfully declined due to incompatibility with another job offer), 2023.
 - Team award for the best scientific work in 2021 at Ioffe institute.
 
 ### Professional Service
