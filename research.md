@@ -113,4 +113,4 @@ The accurate localization of gamma-ray bursts (GRBs) remains a crucial task. His
 - [KW GRBs with known z part II](http://www.ioffe.ru/LEA/zGRBs/part2/): ASCII data sets and figures of GRB light curves and XSpec plots of spectral fits for "the Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. II. Waiting Mode Bursts Simultaneously Detected by Swift/BAT".
 
 ### Theses
-- [My PhD thesis (in Russian)](assets/docs/cv.pdf)
+- [My PhD thesis (in Russian)](assets/docs/Phd_thesis.pdf)
