@@ -180,21 +180,28 @@ The accurate localization of gamma-ray bursts (GRBs) remains a crucial task. His
 
 # &nbsp;
 
-**Multi-D Classification of GRBs in their rest-frame**
+**Multi-Dimensional Classification of GRBs in their rest-frame**
 
 [![Figure](assets/images/multi-d_clustering.png){: width="300px"}]
 
 # &nbsp;
 
-**Variability of KW GRBs**
+**Minimum Variability Timescale of GRB lightcurves observed by KW**
 
 ![Figure](assets/images/KW_lc.png){: width="300px"}
+
+The minimum variability timescale (MVT) of a GRB refers to the shortest observed time over which significant changes in brightness or flux occur in the gamma-ray light curve. 
+This timescale provides crucial insights into the physical size and dynamics of the emission region, as well as the underlying central engine (e.g., a black hole or magnetar).
 
 # &nbsp;
 
 **Cross-calibration of GRB detectors using simultaneously detected bursts**
 
 ![Figure](assets/images/cross-cal.png){: width="300px"}
+
+Since different gamma-ray telescopes have varying energy responses, effective areas, and instrumental systematics, cross-calibration is essential to ensure consistent measurements of GRB properties (e.g., fluence, peak flux, and spectral parameters). 
+While most instruments agree within ~10–20%, spectral shape and flux normalization discrepancies can still arise, requiring careful analysis.
+The best way to achieve this is by analyzing GRBs detected simultaneously by multiple instruments.
 
 # &nbsp;
 
