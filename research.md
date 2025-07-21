@@ -7,7 +7,14 @@ permalink: /research/
 ## Selected Research Projects
 
 ### Primary Research Area
-[![KW GRBs with known redshifts detected in the triggered mode](assets/images/grbfr1.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
+KW GRBs with known redshifts detected in the triggered mode
+[![](assets/images/grbfr1.jpeg){: height="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
+<details>
+<summary>See the abstract</summary></summary>
+<div markdown="1">
+In this catalog, we present the results of a systematic study of gamma-ray bursts (GRBs) with reliable redshift estimates detected in the triggered mode of the Konus-Wind (KW) experiment during the period from 1997 February to 2016 June. The sample consists of 150 GRBs (including 12 short/hard bursts) and represents the largest set of cosmological GRBs studied to date over a broad energy band. From the temporal and spectral analyses of the sample, we provide the burst durations, the spectral lags, the results of spectral fits with two model functions, the total energy fluences, and the peak energy fluxes. Based on the GRB redshifts, which span the range 0.1≤slant z≤slant 5, we estimate the rest-frame, isotropic-equivalent energy, and peak luminosity. For 32 GRBs with reasonably constrained jet breaks, we provide the collimation-corrected values of the energetics. We consider the behavior of the rest-frame GRB parameters in the hardness-duration and hardness-intensity planes, and confirm the “Amati” and “Yonetoku” relations for Type II GRBs. The correction for the jet collimation does not improve these correlations for the KW sample. We discuss the influence of instrumental selection effects on the GRB parameter distributions and estimate the KW GRB detection horizon, which extends to z∼ 16.6, stressing the importance of GRBs as probes of the early universe. Accounting for the instrumental bias, we estimate the KW GRB luminosity evolution, luminosity and isotropic-energy functions, and the evolution of the GRB formation rate, which are in general agreement with those obtained in previous studies.
+</div>
+</details>
 
 - [KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...83T/abstract)
 - [2D Classification of GRBs in their rest-frame](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
