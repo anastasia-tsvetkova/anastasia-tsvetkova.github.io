@@ -106,8 +106,6 @@ Fast radio bursts (FRBs) are bright, millisecond-scale radio flashes of unknown 
 </div>
 </details>
 
-# &nbsp;
-
 - [A bright γ-ray flare interpreted as a giant magnetar flare in NGC 253](https://ui.adsabs.harvard.edu/abs/2021Natur.589..211S/abstract)
 <details>
 <summary>See the abstract</summary>
@@ -115,8 +113,6 @@ Fast radio bursts (FRBs) are bright, millisecond-scale radio flashes of unknown 
 Soft γ-ray repeaters exhibit bursting emission in hard X-rays and soft γ-rays. During the active phase, they emit random short (milliseconds to several seconds long), hard-X-ray bursts, with peak luminosities of 10^36 to 10^43 erg per second. Occasionally, a giant flare with an energy of around 10^44 to 10^46 erg is emitted. These phenomena are thought to arise from neutron stars with extremely high magnetic fields (10^14 to 10^15 gauss), called magnetars. A portion of the second-long initial pulse of a giant flare in some respects mimics short γ-ray bursts, which have recently been identified as resulting from the merger of two neutron stars accompanied by gravitational-wave emission. Two γ-ray bursts, GRB 051103 and GRB 070201, have been associated with giant flares. Here we report observations of the γ-ray burst GRB 200415A, which we localized to a 20-square-arcmin region of the starburst galaxy NGC 253, located about 3.5 million parsecs away. The burst had a sharp, millisecond-scale hard spectrum in the initial pulse, which was followed by steady fading and softening over 0.2 seconds. The energy released (roughly 1.3 × 10^46 erg) is similar to that of the superflare from the Galactic soft γ-ray repeater SGR 1806-20 (roughly 2.3 × 10^46 erg). We argue that GRB 200415A is a giant flare from a magnetar in NGC 253.
 </div>
 </details>
-
-# &nbsp;
 
 - [A Search for Gravitationally Lensed Gamma-Ray Bursts in the Data of the Interplanetary Network and Konus-Wind](https://ui.adsabs.harvard.edu/abs/2019ApJ...871..121H/abstract)
 <details>
@@ -126,8 +122,6 @@ We examine a sample of 2301 gamma-ray bursts, detected by Konus-Wind in the trig
 </div>
 </details>
 
-# &nbsp;
-
 - [Discovery and confirmation of the shortest gamma-ray burst from a collapsar](https://ui.adsabs.harvard.edu/abs/2021NatAs...5..917A/abstract)
 <details>
 <summary>See the abstract</summary>
@@ -135,8 +129,6 @@ We examine a sample of 2301 gamma-ray bursts, detected by Konus-Wind in the trig
 GRBs are among the brightest and most energetic events in the Universe. The duration and hardness distribution of GRBs has two clusters, now understood to reflect (at least) two different progenitors. Short-hard GRBs (SGRBs; T90 < 2 s) arise from compact binary mergers, and long-soft GRBs (LGRBs; T90 > 2 s) have been attributed to the collapse of peculiar massive stars (collapsars). The discovery of SN 1998bw/GRB 980425 marked the first association of an LGRB with a collapsar, and AT 2017gfo/GRB 170817A/GW170817 marked the first association of an SGRB with a binary neutron star merger, which also produced a gravitational wave. Here, we present the discovery of ZTF20abwysqy (AT2020scz), a fast-fading optical transient in the Fermi satellite and the Interplanetary Network localization regions of GRB 200826A; X-ray and radio emission further confirm that this is the afterglow. Follow-up imaging (at rest-frame 16.5 days) reveals excess emission above the afterglow that cannot be explained as an underlying kilonova, but which is consistent with being the supernova. Although the GRB duration is short (rest-frame T90 of 0.65 s), our panchromatic follow-up data confirm a collapsar origin. GRB 200826A is the shortest LGRB found with an associated collapsar; it appears to sit on the brink between a successful and a failed collapsar. Our discovery is consistent with the hypothesis that most collapsars fail to produce ultra-relativistic jets.
 </div>
 </details>
-
-# &nbsp;
 
 - [Soft X-ray prompt emission from the high-redshift gamma-ray burst EP240315a](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..564L/abstract)
 <details>
@@ -146,8 +138,6 @@ Long gamma-ray bursts (GRBs) are believed to originate from core collapse of mas
 </div>
 </details>
 
-# &nbsp;
-
 - [Long gamma-ray burst light curves as the result of a common stochastic pulse–avalanche process](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.266B/abstract)
 <details>
 <summary>See the abstract</summary>
@@ -155,8 +145,6 @@ Long gamma-ray bursts (GRBs) are believed to originate from core collapse of mas
 Context. The complexity and variety exhibited by the light curves of long gamma-ray bursts (GRBs) enclose a wealth of information that has not yet been fully deciphered. Despite the tremendous advance in the knowledge of the energetics, structure, and composition of the relativistic jet that results from the core collapse of the progenitor star, the nature of the inner engine, how it powers the relativistic outflow, and the dissipation mechanisms remain open issues. Aims. A promising way to gain insights is describing GRB light curves as the result of a common stochastic process. In the Burst And Transient Source Experiment (BATSE) era, a stochastic pulse avalanche model was proposed and tested through the comparison of ensemble-average properties of simulated and real light curves. Here our aim was to revive and further test this model. Methods. We applied it to two independent datasets, BATSE and Swift/BAT, through a machine learning approach: the model parameters are optimised using a genetic algorithm. Results. The average properties were successfully reproduced. Notwithstanding the different populations and passbands of both datasets, the corresponding optimal parameters are interestingly similar. In particular, for both sets the dynamics appear to be close to a critical state, which is key to reproducing the observed variety of time profiles. Conclusions. Our results propel the avalanche character in a critical regime as a key trait of the energy release in GRB engines, which underpins some kind of instability.
 </div>
 </details>
-
-# &nbsp;
 
 - [KW-Sun: The Konus-Wind Solar Flare Database in Hard X-Ray and Soft Gamma-Ray Ranges](https://ui.adsabs.harvard.edu/abs/2022ApJS..262...32L/abstract)
 <details>
@@ -166,8 +154,6 @@ We present a database of solar flares registered by the Konus-Wind instrument du
 </div>
 </details>
 
-# &nbsp;
-
 - [HERMES: Gamma-ray burst and gravitational wave counterpart hunter](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.175G/abstract)
 <details>
 <summary>See the abstract</summary>
@@ -176,8 +162,6 @@ Gamma-ray bursts (GRBs) bridge relativistic astrophysics and multimessenger astr
 </div>
 </details>
 
-# &nbsp;
-
 - [A proposed network of gamma-ray burst detectors on the global navigation satellite system Galileo G2](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.131G/abstract)
 <details>
 <summary>See the abstract</summary>
@@ -185,8 +169,6 @@ Gamma-ray bursts (GRBs) bridge relativistic astrophysics and multimessenger astr
 The accurate localization of gamma-ray bursts (GRBs) remains a crucial task. Historically, improved localizations have led to the discovery of afterglow emission and the realization of their cosmological distribution via redshift measurements; however, a more recent requirement comes with the potential of studying the kilonovae of neutron star mergers. Gravitational wave detectors are expected to provide locations to not better than 10 square degrees over the next decade. With their increasing horizon for merger detections the intensity of the gamma-ray and kilonova emission also drops, making their identification in large error boxes a challenge. Thus, a localization via the gamma-ray emission seems to be the best chance to mitigate this problem. Here we propose to equip some of the second-generation Galileo satellites with dedicated GRB detectors. This saves costs for launches and satellites for a dedicated GRB network, the large orbital radius is beneficial for triangulation, and perfect positional and timing accuracy come for free. We present simulations of the triangulation accuracy, demonstrating that short GRBs as faint as GRB 170817A can be localized to 1 degree radius (1σ).
 </div>
 </details>
-
-# &nbsp;
 
 <!--#### Related Publications
 - Paper Title (Year) [Link](#)-->
