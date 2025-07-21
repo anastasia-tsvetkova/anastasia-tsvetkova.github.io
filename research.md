@@ -8,7 +8,7 @@ permalink: /research/
 
 ### Primary Research Area
 
-**KW GRBs with known redshifts detected in the triggered mode**
+[**KW GRBs with known redshifts detected in the triggered mode**](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
 
 [![Figure](assets/images/grbfr1.jpeg){: width="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
 
@@ -41,7 +41,7 @@ In this catalog, we present the results of a systematic study of gamma-ray burst
  |
 -->
 
-**KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT**
+[**KW GRBs with known redshifts detected in the waiting mode and by Swift/BAT**](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...83T/abstract)
 
 [![Figure](assets/images/kw_grbs2.jpeg){: width="300px"}](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...83T/abstract)
 
@@ -54,7 +54,7 @@ In the second part of The Konus-Wind Catalog of Gamma-Ray Bursts with Known Reds
 
 # &nbsp;
 
-**2D Classification of GRBs in their rest-frame**
+[**2D Classification of GRBs in their rest-frame**](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
 
 [![Figure](assets/images/clustering_2017.jpeg){: width="300px"}](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.169T/abstract)
 
@@ -67,7 +67,7 @@ Context. Two classes of gamma-ray bursts (GRBs) corresponding to the short-hard 
 
 # &nbsp;
 
-**The main facilities detecting GRBs across all wavelengths**
+[**The main facilities detecting GRBs across all wavelengths**](https://ui.adsabs.harvard.edu/abs/2022Univ....8..373T/abstract)
 
 [![Figure](assets/images/grb_facilities.png){: width="300px"}](https://ui.adsabs.harvard.edu/abs/2022Univ....8..373T/abstract)
 
@@ -79,9 +79,9 @@ Gamma-ray bursts (GRBs) are short and intense flashes of γ-rays coming from dee
 </details>
 
 # &nbsp;
-**How can we witness the Lorentz Invariance violation with GRBs?**
+[**How can we witness the Lorentz Invariance violation with GRBs?**](https://ui.adsabs.harvard.edu/abs/2023Univ....9..359T/abstract)
 
-[![Figure](grb_qg.png){: width="300px"}](https://ui.adsabs.harvard.edu/abs/2023Univ....9..359T/abstract)
+[![Figure](assets/images/grb_qg.png){: width="300px"}](https://ui.adsabs.harvard.edu/abs/2023Univ....9..359T/abstract)
 
 <details>
 <summary>See the abstract</summary>
