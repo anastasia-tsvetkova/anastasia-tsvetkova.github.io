@@ -7,6 +7,7 @@ permalink: /news/
 ## News & Updates
 
 ### July 2026
+- Our manuscript entitled "Time-resolved spectro-polarimetric analysis of extremely bright GRB 230307A: Possible Evidence of evolution from photospheric to synchrotron dominated emission" has been accepted for publication in A&A. 
 - A  very bright, long-duration GRB 250706B/C has been detected by [SVOM/ECLAIRs](https://gcn.nasa.gov/circulars/40989), [Fermi-LAT](https://gcn.nasa.gov/circulars/41019), [Konus-Wind](https://gcn.nasa.gov/circulars/41027), and [Insight-HXMT/HE](https://gcn.nasa.gov/circulars/41049). Several optical telescopes observed the field of GRB, among which VLT/X-shooter was able to securely identify its redshift z = [0.942](https://gcn.nasa.gov/circulars/41022). The analysis of this event is ongoing.
 
 ### June 2025
