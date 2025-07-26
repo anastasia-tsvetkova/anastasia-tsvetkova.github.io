@@ -28,7 +28,7 @@ permalink: /kw/
   
   <input type="hidden" name="_language" value="ru">
   
-  <button type="submit">Отправить</button>
+  <button type="submit">Send</button>
 </form>
 
 <style>
