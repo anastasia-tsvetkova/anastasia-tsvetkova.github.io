@@ -3,8 +3,8 @@ layout: page
 title: Home
 ---
 
-# Anastasia Tsvetkova
-## Researcher in Astrophysics
+# Anastasia Tsvetkova {: .text-center}
+## Researcher in Astrophysics {: .text-center}
 
 Welcome to my website!
 I am an astrophysicist studying some of the most extreme and intriguing objects in our universe: Gamma-ray bursts (GRBs).
