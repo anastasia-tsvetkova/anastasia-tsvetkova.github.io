@@ -7,8 +7,8 @@ title: Home
   .hero {
     background: 
       linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
-      url('/assets/images/stars.jpg');
-    width: 100%;
+      url('/assets/images/stars.jpg') center/cover no-repeat fixed;
+    <!-- width: 100%;
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -17,8 +17,9 @@ title: Home
     justify-content: center;
     text-align: center;
     color: white;
+    -->
     margin: 0;
-    padding: 0;
+    <!-- padding: 0; -->
   }
 </style>
 
