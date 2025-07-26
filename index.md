@@ -23,14 +23,15 @@ title: Home
 <div class="hero">
   <div>
     <h1>Anastasia Tsvetkova</h1>
-    <p>Researcher in Astrophysics</p>
-  </div>
-</div>
-
-Welcome to my website!
+    <h2>Researcher in Astrophysics</h2>
+    <p>Welcome to my website!
 I am an astrophysicist studying some of the most extreme and intriguing objects in our universe: Gamma-ray bursts (GRBs).
 
 Here you can find information about my research, teaching, mentoring, collaborations, and some useful links along with information about the Konus-Wind experiment.
+</p>
+  </div>
+</div>
+
 
 <!-- ## Recent Updates
 
