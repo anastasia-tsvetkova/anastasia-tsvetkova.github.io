@@ -23,7 +23,7 @@ title: Home
 <div class="hero">
   <div>
     <h1>Anastasia Tsvetkova</h1>
-    <h2>Researcher in Astrophysics</h2>
+    <h1>Researcher in Astrophysics</h1>
     <p>Welcome to my website!
 I am an astrophysicist studying some of the most extreme and intriguing objects in our universe: Gamma-ray bursts (GRBs).
 
