@@ -4,7 +4,7 @@ title: Konus-Wind
 permalink: /kw/
 ---
 
-## Send a request for the Konus-wind data
+## Send a request for the Konus-Wind data
 
 <form 
   action="https://formspree.io/f/xwpqozev" 
