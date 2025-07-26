@@ -7,7 +7,7 @@ permalink: /kw/
 ## Send a request for the Konus-wind data
 
 <form 
-  action="https://formspree.io/f/your-form-id" 
+  action="https://formspree.io/f/xwpqozev" 
   method="POST"
   class="contact-form"
 >
