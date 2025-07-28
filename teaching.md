@@ -48,7 +48,7 @@ permalink: /teaching/
 
 + Student: Polina Krupina, Peter the Great St. Petersburg Polytechnic University
 
-  Thesis: Spectral analysis of Fermi/GBM GRBs redshifts
+  Thesis: Spectral analysis of Fermi/GBM GRBs with measured redshifts
 
   Autumn 2024–present
   
