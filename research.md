@@ -61,7 +61,20 @@ In the second part of The Konus-Wind Catalog of Gamma-Ray Bursts with Known Reds
 <details>
 <summary>See the abstract</summary>
 <div markdown="1">
-Context. Two classes of gamma-ray bursts (GRBs) corresponding to the short-hard and the long-soft events, with a putative intermediate class, are typically considered in the observer frame. However, when considering GRB characteristics in the cosmological rest frame, the boundary between the classes becomes blurred. Aims. The goal of this research is to check for evidences of a third 'intermediate' class of GRBs and investigate how the transformation from the observer to the rest frame affects the hardness-duration-based classification. Methods. We applied fits with skewed and non-skewed (symmetric) Gaussian and Student distributions to a sample of 409 GRBs with reliably measured redshifts to cluster the bursts on the hardness (Ep) – duration (T90) plane. Results. We find that based on AIC/BIC criteria, the statistically preferred number of clusters on the GRB rest-frame hardness-duration plane does not exceed two. We also assessed the robustness of the clustering technique. Conclusions. We did not find any solid evidence of an intermediate GRB class on the rest-frame hardness-duration plane.
+Context. 
+Two classes of gamma-ray bursts (GRBs) corresponding to the short-hard and the long-soft events, with a putative intermediate class, are typically considered in the observer frame. However, when considering GRB characteristics in the cosmological rest frame, the boundary between the classes becomes blurred. 
+
+Aims.
+The goal of this research is to check for evidences of a third 'intermediate' class of GRBs and investigate how the transformation from the observer to the rest frame affects the hardness-duration-based classification. 
+
+Methods. 
+We applied fits with skewed and non-skewed (symmetric) Gaussian and Student distributions to a sample of 409 GRBs with reliably measured redshifts to cluster the bursts on the hardness (Ep) – duration (T90) plane. 
+ 
+Results. 
+We find that based on AIC/BIC criteria, the statistically preferred number of clusters on the GRB rest-frame hardness-duration plane does not exceed two. We also assessed the robustness of the clustering technique. 
+
+Conclusions. 
+We did not find any solid evidence of an intermediate GRB class on the rest-frame hardness-duration plane.
 </div>
 </details>
 
