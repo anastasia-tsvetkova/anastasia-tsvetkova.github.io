@@ -23,7 +23,7 @@ permalink: /teaching/
   
 + Student: Fyodor Sviridov, Alferov University (St. Petersburg)
 
-  Thesis: Cross-calibration of Konus-Wind, Fermi /GBM, and Swift/BAT detectors using simultaneously detected GRBs
+  Thesis: Cross-calibration of Konus-Wind, Fermi/GBM, and Swift/BAT detectors using simultaneously detected GRBs
 
   Autumn 2024–present
   
@@ -61,6 +61,6 @@ permalink: /teaching/
 ## Thesis reviewing
 + Student: Nadezhda Lyashenko, Peter the Great St. Petersburg Polytechnic University
 
-  MSc Thesis: Spectral analysis of short GRBs detected by Fermi /GBM
+  MSc Thesis: Spectral analysis of short GRBs detected by Fermi/GBM
   
   Spring 2023
