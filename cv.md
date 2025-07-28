@@ -40,7 +40,7 @@ Cagliari, Italy, 05/2022-04/2023.
 
 ### Grants and Awards
 - EUTOPIA-SIF two-year postdoctoral fellowship at the University of Warwick (respectfully declined due to incompatibility with another job offer), 2023.
-- Team award for the best scientific work in 2021 at Ioffe institute.
+- Team award for the best scientific work in 2021 at the Ioffe Institute.
 
 ### Professional Service
 - Reviewer for ApJ.
