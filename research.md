@@ -171,7 +171,7 @@ We present a database of solar flares registered by the Konus-Wind instrument du
 <details>
 <summary>See the abstract</summary>
 <div markdown="1">
-Gamma-ray bursts (GRBs) bridge relativistic astrophysics and multimessenger astronomy. Space–based γ- and X-ray wide-field detectors have proven essential for detecting and localizing the highly variable GRB prompt emission, which is also a counterpart of gravitational wave events. We studied the capability of detecting long and short GRBs with the High Energy Rapid Modular Ensemble of Satellites (HERMES) Pathfinder (HP) and SpIRIT, namely a swarm of six 3U CubeSats to be launched in early 2025, and a 6U CubeSat launched on December 1 2023. We also studied the capabilities of two advanced configurations of swarms of more than eight satellites with improved detector performances (HERMES Constellations). The HERMES detectors, sensitive down to ∼2–3 keV, will be able to detect faint and soft GRBs, which comprise X-ray flashes and high-redshift bursts. By combining state-of-the-art long- and short-GRB population models with a description of the single module performance, we estimate that HP will detect ∼195‑21+22 long GRBs (3.4‑0.8+0.3 at redshift z > 6) and ∼19‑3+5 short GRBs per year. The larger HERMES Constellations under study can detect between ∼1300 and ∼3000 long GRBs per year and between ∼160 and ∼400 short GRBs per year, depending on the chosen configuration, with a rate of long GRBs above z > 6 of between 30 and 75 per year. Finally, we explored the capability of HERMES to detect short GRBs as electromagnetic counterparts of binary neutron star (BNS) mergers detected as gravitational signals by current and future ground–based interferometers. Under the assumption that the GRB jets are structured, we estimate that HP can provide up to ∼1 (14) yr‑1 joint detections during the fifth LIGO–Virgo–KAGRA observing run (Einstein Telescope single triangle 10 km arm configuration). These numbers become ∼4 (100) yr‑1, respectively, for the HERMES Constellation configuration. ⋆ Based on work of the HERMES-Pathfinder collaboration, see list in the Appendix.
+Gamma-ray bursts (GRBs) bridge relativistic astrophysics and multimessenger astronomy. Space–based γ- and X-ray wide-field detectors have proven essential for detecting and localizing the highly variable GRB prompt emission, which is also a counterpart of gravitational wave events. We studied the capability of detecting long and short GRBs with the High Energy Rapid Modular Ensemble of Satellites (HERMES) Pathfinder (HP) and SpIRIT, namely a swarm of six 3U CubeSats to be launched in early 2025, and a 6U CubeSat launched on December 1 2023. We also studied the capabilities of two advanced configurations of swarms of more than eight satellites with improved detector performances (HERMES Constellations). The HERMES detectors, sensitive down to ∼2–3 keV, will be able to detect faint and soft GRBs, which comprise X-ray flashes and high-redshift bursts. By combining state-of-the-art long- and short-GRB population models with a description of the single module performance, we estimate that HP will detect ∼195‑21+22 long GRBs (3.4‑0.8+0.3 at redshift z > 6) and ∼19‑3+5 short GRBs per year. The larger HERMES Constellations under study can detect between ∼1300 and ∼3000 long GRBs per year and between ∼160 and ∼400 short GRBs per year, depending on the chosen configuration, with a rate of long GRBs above z > 6 of between 30 and 75 per year. Finally, we explored the capability of HERMES to detect short GRBs as electromagnetic counterparts of binary neutron star (BNS) mergers detected as gravitational signals by current and future ground–based interferometers. Under the assumption that the GRB jets are structured, we estimate that HP can provide up to ∼1 (14) yr^‑1 joint detections during the fifth LIGO–Virgo–KAGRA observing run (Einstein Telescope single triangle 10 km arm configuration). These numbers become ∼4 (100) yr^‑1, respectively, for the HERMES Constellation configuration. ⋆ Based on work of the HERMES-Pathfinder collaboration, see list in the Appendix.
 </div>
 </details>
 
@@ -191,17 +191,17 @@ The accurate localization of gamma-ray bursts (GRBs) remains a crucial task. His
 
 ![Figure](assets/images/BeppoSAX.jpeg){: width="300px"}
 
-The combination of Konus-Wind (KW) (20 keV–15 MeV) and BeppoSAX/WFC (2–28 keV) provideы a broadband spectral coverage crucial for identifying synchrotron radiation as the dominant emission mechanism in GRB prompt phases. 
+The combination of Konus-Wind (KW) (20 keV–15 MeV) and BeppoSAX/WFC (2–28 keV) provides a broadband spectral coverage crucial for identifying synchrotron radiation as the dominant emission mechanism during the GRB prompt phase. 
 It also allows studies of multi-component GRB emission.
-Currently, we are finishing joint analysis of a couple of dozen of GRBs with phenomenological spectral models implying both thermal and non-thermal radiation.
+Currently, we are finishing joint analysis of a couple of dozen of GRBs using phenomenological spectral models implying both thermal and non-thermal radiation.
 
 # &nbsp;
 
-**Multi-Dimensional Classification of GRBs in their rest-frame**
+**Multi-Dimensional classification of GRBs in their rest-frame**
 
 ![Figure](assets/images/multi-d_clustering.png){: width="300px"}
 
-Moving beyond the simplistic long-soft/short-hard dichotomy, multi-dimensional rest-frame classification reveals a richer GRB taxonomy linked to progenitors, central engines, and jet physics. Machine learning and multi-wavelength data are key to unlocking this complexity.
+Moving beyond the simplistic long-soft/short-hard dichotomy, multi-dimensional rest-frame classification can reveal a richer GRB taxonomy linked to progenitors, central engines, and jet physics. Machine learning and multi-wavelength data are key to unlocking this complexity.
 
 # &nbsp;
 
