@@ -6,7 +6,7 @@ permalink: /news/
 
 ## News & Updates
 
-### July 2026
+### July 2025
 - A 3U cubesat [239Alferov](https://spacepi.space/satellites/239-alferov/) carrying a 50 cm2 NaI gamma-spectrometer aimed at the detection of transients has been launched on July 25th. The monitor is designed to study sources of gamma radiation of extragalactic (gamma-ray bursts), galactic (flashes of neutron stars), solar (solar flares), and terrestrial origin (terrestrial gamma flashes). The spectrometer development was guided by the [KW team](http://www.ioffe.ru/LEA/index.html). 239Alferov is an educational project, called after the Nobel prize winner [Zhores Alferov](https://www.nobelprize.org/prizes/physics/2000/alferov/facts/), that involves students from two leading high schools in St. Petersburg, specializing in physics and mathematics. The students will gain knowledge about actual problems of modern high-energy astrophysics, get acquainted with methods and approaches of building gamma-ray detectors and analysing their data. The skills acquired by the students while preparing the experiment and working with its data will help to involve them in scientific, innovative, and project activities in the field of space instrumentation and data analysis.
   
 [![Figure](assets/images/239Alferov.png){: width="300px"}](https://spacepi.space/satellites/239-alferov/)
