@@ -19,7 +19,7 @@ permalink: /cv/
 ### Education
 - **PhD in Physics and Mathematics** (Major: Astrophysics and Astronomy), Ioffe Institute, 09/2014-06/2018.
 - **MSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 09/2006-12/2008.
-- **MSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 09/2002-06/2006.
+- **BSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 09/2002-06/2006.
 
 ### Academic Positions
 - **Assistant Professor (RTDa)**, High-Energy Astrophysics Group, Department of Physics, University of
