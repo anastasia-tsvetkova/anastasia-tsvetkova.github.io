@@ -70,9 +70,12 @@ It consists of two identical omnidirectional NaI(Tl) detectors, mounted on oppos
 One detector (S1) points toward the south ecliptic pole, thereby observing the south ecliptic hemisphere; the other (S2) observes the north ecliptic hemisphere. 
 Each detector has an effective area of ∼80–160 cm2, depending on the photon energy and incident angle.
 
+### Orbit
+As for now, the instrument operates in orbit around the Lagrange point L1.
 In interplanetary space far outside the Earthʼs magnetosphere, KW has the advantages over Earth-orbiting GRB monitors of continuous coverage, uninterrupted by Earth occultation, and a steady background, undistorted by passages through Earthʼs trapped radiation, and subject only to occasional solar particle events. 
 The Wind distance from Earth as a function of time is presented in [Palʼshin et al. (2013);](https://ui.adsabs.harvard.edu/abs/2013ApJS..207...38P/abstract) it ranges up to 5.5 lt-s.
 
+### Operational modes
 The instrument has two operational modes: waiting and triggered. 
 While in the waiting mode, the count rates are recorded in three energy windows G1 (13–50keV), G2 (50–200 keV), and G3 (200–760 keV) with 2.944 s time resolution. 
 When the count rate in the G2 window exceeds a ~9 sigma threshold above the background on one of two fixed timescales of 1 s or 140 ms, the instrument switches into the triggered mode, for which the waiting-mode data are also available up to T0+250 s. 
@@ -85,7 +88,10 @@ The last 8 spectra are obtained for 8.192 s each.
 As a result the minimum duration of spectral measurements is 79.104s, and the maximum is 491.776s (which is ∼260s longer than the time history duration). 
 After the triggered-mode measurements are finished, KW switches into the data-readout mode for ∼1 hr and no measurements are available for this time interval.
 
+### Dead time correction
 For all the bursts, we used a standard KW dead time (DT) correction procedure for light curves (with a DT of a few μs) and spectra (with a DT of ∼42 μs). 
+
+### DRM
 The detector response matrix (DRM), which is a function only of the burst angle relative to the instrument axis, was computed using the GEANT4 package (Agostinelli et al. 2003). 
 The detailed description of the instrument response calculation is presented in [Terekhov et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998AIPC..428..894T/abstract). 
 The latest version of the DRM contains responses calculated for 264 photon energies between 5 keV and 30 MeV on a quasi-logarithmic scale for incident angles from 0º to 100º with a step of 5º. 
