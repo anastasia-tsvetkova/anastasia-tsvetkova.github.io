@@ -89,7 +89,7 @@ As a result the minimum duration of spectral measurements is 79.104s, and the ma
 After the triggered-mode measurements are finished, KW switches into the data-readout mode for ∼1 hr and no measurements are available for this time interval.
 
 |                                    |**Triggered**                   |**Non-triggered**| **Housekeeping** |
-|:-----------------------------------|:-------------------------------|:-----------------|:------------|
+|:------------------------------------------|:---------------------------------------|:-----------------|:------------|
 |**Light curve** accumulation time   |T0-0.512 s to ~T0+230 s         |Continuous* |Continuous*|
 |**Light curve** time resilution     |T0-0.512 s to T0+0.512 s: 2 ms  |2.944 s     |3.68 s  |
 |                                    |T0+0.512 s to ~T0+32 s: 16 ms   |             |  |
