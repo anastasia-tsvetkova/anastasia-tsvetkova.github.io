@@ -88,11 +88,14 @@ The last 8 spectra are obtained for 8.192 s each.
 As a result the minimum duration of spectral measurements is 79.104s, and the maximum is 491.776s (which is ∼260s longer than the time history duration). 
 After the triggered-mode measurements are finished, KW switches into the data-readout mode for ∼1 hr and no measurements are available for this time interval.
 
-|            |Triggered    |Non-triggered|
+|            |**Triggered**    |**Non-triggered**|
 |:-----------|:----------------|:------------|
-|Light curve acc. time |T0-0.512 s to ~T0+230 s|Continuous       |
-|            | 123         | 123         |
-
+|**Light curve** accumulation time   |T0-0.512 s to ~T0+230 s|Continuous^*       |
+|**Light curve** time resilution     |T0-0.512 s to T0+0.512 s: 2 ms          | 2.944 s         |
+|                                    |T0+0.512 s to ~T0+32 s: 16 ms          |         |
+|**Light curve** time resilution     |~T0+32 s to ~T0+90 s: 64 ms          |         |
+|**Light curve** time resilution     |from ~T0+90 s: 256 ms          |         |
+* Also available in the triggered mode.
 
 ### Dead time correction
 For all the bursts, we used a standard KW dead time (DT) correction procedure for light curves (with a DT of a few μs) and spectra (with a DT of ∼42 μs). 
