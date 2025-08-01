@@ -65,7 +65,7 @@ permalink: /kw/
 </style>
 
 ## Instrument
-Konus-Wind (hereafter KW; [Aptekar et al. 1995](https://ui.adsabs.harvard.edu/abs/1995SSRv...71..265A/abstract)) is a gamma-ray spectrometer designed to study temporal and spectral characteristics of GRBs, solar flares, soft gamma repeater bursts, and other transient phenomena over a wide energy range from 13 keV to 10 MeV, nominally (i.e., at launch; see the end of this section). 
+Konus-Wind (hereafter KW; [Aptekar et al. 1995](https://ui.adsabs.harvard.edu/abs/1995SSRv...71..265A/abstract)) is a gamma-ray spectrometer designed to study temporal and spectral characteristics of gamma-ray bursts (GRBs), solar flares (SFs), soft-gamma repeater bursts (SGRs), and other transient phenomena over a wide energy range from 13 keV to 10 MeV, nominally (i.e., at launch; see the end of this section). 
 It consists of two identical omnidirectional NaI(Tl) detectors, mounted on opposite faces of the rotationally stabilized Wind spacecraft. 
 One detector (S1) points toward the south ecliptic pole, thereby observing the south ecliptic hemisphere; the other (S2) observes the north ecliptic hemisphere. 
 Each detector has an effective area of ∼80–160 cm2, depending on the photon energy and incident angle.
@@ -73,7 +73,7 @@ Each detector has an effective area of ∼80–160 cm2, depending on the photon 
 ### Orbit
 As for now, the instrument operates in orbit around the Lagrange point L1.
 In interplanetary space far outside the Earthʼs magnetosphere, KW has the advantages over Earth-orbiting GRB monitors of continuous coverage, uninterrupted by Earth occultation, and a steady background, undistorted by passages through Earthʼs trapped radiation, and subject only to occasional solar particle events. 
-The Wind distance from Earth as a function of time is presented in [Palʼshin et al. (2013);](https://ui.adsabs.harvard.edu/abs/2013ApJS..207...38P/abstract) it ranges up to 5.5&nbsp;lt-s.
+The Wind distance from Earth as a function of time is presented in [Palʼshin et al. (2013);](https://ui.adsabs.harvard.edu/abs/2013ApJS..207...38P/abstract) it ranges up to 7&nbsp;lt-s.
 
 ### Operational modes
 The instrument has two operational modes: waiting and triggered. 
@@ -108,10 +108,10 @@ It was shown that the difference in the spectrum normalization between KW and th
 - [Triggered events](http://www.ioffe.ru/LEA/kw/triggers/)
 - [Non-triggered events](http://www.ioffe.ru/LEA/kw/wm/)
 - GRBs with redshifts: [triggered](http://www.ioffe.ru/LEA/zGRBs/triggered/index.html) and [non-triggered+BAT](http://www.ioffe.ru/LEA/zGRBs/part2/index.html)
-- [The Second Catalog of Interplanetary Network Localizations of Konus Short Gamma-Ray Bursts](http://www.ioffe.ru/LEA/ShortGRBs_IPN/index.html) &nbsp;&nbsp;&nbsp; [the paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...34S/abstract)
+- [The Second Catalog of IPN Localizations of KW Short GRBs](http://www.ioffe.ru/LEA/ShortGRBs_IPN/index.html) &nbsp;&nbsp;&nbsp; [the paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...34S/abstract)
 - Short GRBs: [1994-2010](http://www.ioffe.ru/LEA/shortGRBs/Catalog2/index.html) and [2011-2021](http://www.ioffe.ru/LEA/shortGRBs/Catalog3/index.html)
 - SGRs: [1978-2000](http://www.ioffe.ru/LEA/SGR/Catalog/index.html), [Online Magnetar Catalog](https://www.ioffe.ru/LEA/SGR/index.html)
-- Solar flares: [KW+GOES](http://www.ioffe.ru/LEA/Solar/index.html), [KW-Sun triggered](http://www.ioffe.ru/LEA/kwsun/index.html), [KW-Sun non-triggered](http://www.ioffe.ru/LEA/kwsun_waiting/index.html), [KW+STIX](http://www.ioffe.ru/LEA/kw_stix/index.html), [KW+SSRT](http://www.ioffe.ru/LEA/SF_AR/KW-SSRT/index.html), [BTL](http://www.ioffe.ru/LEA/kw/wm/btl/index.html)
+- SFs: [KW+GOES](http://www.ioffe.ru/LEA/Solar/index.html), [KW-Sun triggered](http://www.ioffe.ru/LEA/kwsun/index.html), [KW-Sun non-triggered](http://www.ioffe.ru/LEA/kwsun_waiting/index.html), [KW+STIX](http://www.ioffe.ru/LEA/kw_stix/index.html), [KW+SSRT](http://www.ioffe.ru/LEA/SF_AR/KW-SSRT/index.html), [BTL](http://www.ioffe.ru/LEA/kw/wm/btl/index.html)
 - FRBs: [targeted search for counterparts](http://www.ioffe.ru/LEA/FRB/index.html) &nbsp;&nbsp;&nbsp; [the paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.5580R/abstract)
 
 
