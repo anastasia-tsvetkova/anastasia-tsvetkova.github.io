@@ -64,6 +64,37 @@ permalink: /kw/
   }
 </style>
 
+## Instrument
+Konus-Wind (hereafter KW; [Aptekar et al. 1995](https://ui.adsabs.harvard.edu/abs/1995SSRv...71..265A/abstract)) is a gamma-ray spectrometer designed to study temporal and spectral characteristics of GRBs, solar flares, soft gamma repeater bursts, and other transient phenomena over a wide energy range from 13 keV to 10 MeV, nominally (i.e., at launch; see the end of this section). 
+It consists of two identical omnidirectional NaI(Tl) detectors, mounted on opposite faces of the rotationally stabilized Wind spacecraft. 
+One detector (S1) points toward the south ecliptic pole, thereby observing the south ecliptic hemisphere; the other (S2) observes the north ecliptic hemisphere. 
+Each detector has an effective area of ∼80–160 cm2, depending on the photon energy and incident angle.
+
+In interplanetary space far outside the Earthʼs magneto- sphere, KW has the advantages over Earth-orbiting GRB monitors of continuous coverage, uninterrupted by Earth occultation, and a steady background, undistorted by passages through Earthʼs trapped radiation, and subject only to occasional solar particle events. 
+The Wind distance from Earth as a function of time is presented in [Palʼshin et al. (2013);](https://ui.adsabs.harvard.edu/abs/2013ApJS..207...38P/abstract) it ranges up to 5.5 lt-s.
+
+The instrument has two operational modes: waiting and triggered. 
+While in the waiting mode, the count rates are recorded in three energy windows G1 (13–50keV), G2 (50–200 keV), and G3 (200–760 keV) with 2.944 s time resolution. 
+When the count rate in the G2 window exceeds a ~9 sigma threshold above the background on one of two fixed timescales of 1 s or 140 ms, the instrument switches into the triggered mode, for which the waiting-mode data are also available up to T0+250 s. 
+In the triggered mode, the count rates in the three energy windows are recorded with time resolutions varying from 2 ms up to 256 ms. 
+These time histories, with a total duration of ∼230 s, also include 0.512 s of pre-trigger history. 
+Spectral measurements are carried out, starting from the trigger time T0, in two overlapping energy intervals, PHA1 (13–760 keV) and PHA2 (160 keV–10MeV), with 64 spectra being recorded for each interval over a 63-channel, pseudo-logarithmic, energy scale. 
+The first four spectra are measured with a fixed accumulation time of 64 ms in order to study short bursts. 
+For the subsequent 52 spectra, an adaptive system determines the accumulation times, which may vary from 0.256 to 8.192 s depending on the current count rate in the G2 window. 
+The last 8 spectra are obtained for 8.192 s each. 
+As a result the minimum duration of spectral measurements is 79.104s, and the maximum is 491.776s (which is ∼260s longer than the time history duration). 
+After the triggered-mode measurements are finished, KW switches into the data-readout mode for ∼1 hr and no measurements are available for this time interval.
+
+For all the bursts, we used a standard KW dead time (DT) correction procedure for light curves (with a DT of a few μs) and spectra (with a DT of ∼42 μs). 
+The detector response matrix (DRM), which is a function only of the burst angle relative to the instrument axis, was computed using the GEANT4 package (Agostinelli et al. 2003). 
+The detailed description of the instrument response calculation is presented in [Terekhov et al. (1998)](https://ui.adsabs.harvard.edu/abs/1998AIPC..428..894T/abstract). 
+The latest version of the DRM contains responses calculated for 264 photon energies between 5 keV and 30 MeV on a quasi-logarithmic scale for incident angles from 0º to 100º with a step of 5º. 
+The energy scale is calibrated in flight using the 1460keV line of 40K and the 511 keV e+e− annihilation line. 
+The gain of the detectors has slowly decreased during the long period of operation. 
+The instrumental control of the gain became non-functional in 1997 and the spectral range changed to 25 keV–18 MeV for the S1 detector and to 20 keV–15 MeV for the S2 detector, from the original 13 keV–10 MeV; the G1, G2, G3, PHA1, and PHA2 energy bounds shifted accordingly.
+
+The consistency of the KW spectral parameters and those obtained in other GRB experiments was verified by a cross-calibration with Swift-BAT and Suzaku-WAM [(Sakamoto et al. 2011b,)](https://ui.adsabs.harvard.edu/abs/2011PASJ...63..215S/abstract) and in joint spectral fits with Fermi-GBM. 
+It was shown that the difference in the spectrum normalization between KW and these instruments is <20% in joint fits. 
 
 ## Catalogs
 - [Triggered events](http://www.ioffe.ru/LEA/kw/triggers/)
