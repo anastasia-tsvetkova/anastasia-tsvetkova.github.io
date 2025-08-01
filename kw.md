@@ -78,7 +78,7 @@ While in the waiting mode, the count rates are recorded in three energy windows 
 When the count rate in the G2 window exceeds a ~9 sigma threshold above the background on one of two fixed timescales of 1 s or 140 ms, the instrument switches into the triggered mode, for which the waiting-mode data are also available up to T0+250 s. 
 In the triggered mode, the count rates in the three energy windows are recorded with time resolutions varying from 2 ms up to 256 ms. 
 These time histories, with a total duration of ∼230 s, also include 0.512 s of pre-trigger history. 
-Spectral measurements are carried out, starting from the trigger time T0, in two overlapping energy intervals, PHA1 (13–760 keV) and PHA2 (160 keV–10MeV), with 64 spectra being recorded for each interval over a 63-channel, pseudo-logarithmic, energy scale. 
+Spectral measurements are carried out, starting from the trigger time T0, in two overlapping energy intervals, PHA1 (13–760 keV) and PHA2 (160 keV–10 MeV), with 64 spectra being recorded for each interval over a 63-channel, pseudo-logarithmic, energy scale. 
 The first four spectra are measured with a fixed accumulation time of 64 ms in order to study short bursts. 
 For the subsequent 52 spectra, an adaptive system determines the accumulation times, which may vary from 0.256 to 8.192 s depending on the current count rate in the G2 window. 
 The last 8 spectra are obtained for 8.192 s each. 
