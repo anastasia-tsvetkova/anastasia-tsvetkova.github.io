@@ -69,11 +69,11 @@ permalink: /kw/
 - [Triggered events](http://www.ioffe.ru/LEA/kw/triggers/)
 - [Non-triggered events](http://www.ioffe.ru/LEA/kw/wm/)
 - GRBs with redshifts: [triggered](http://www.ioffe.ru/LEA/zGRBs/triggered/index.html) and [non-triggered+BAT](http://www.ioffe.ru/LEA/zGRBs/part2/index.html)
-- [The Second Catalog of Interplanetary Network Localizations of Konus Short Gamma-Ray Bursts](http://www.ioffe.ru/LEA/ShortGRBs_IPN/index.html)       [the paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...34S/abstract)
+- [The Second Catalog of Interplanetary Network Localizations of Konus Short Gamma-Ray Bursts](http://www.ioffe.ru/LEA/ShortGRBs_IPN/index.html) &nbsp;&nbsp;&nbsp;с&nbsp;&nbsp; [the paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...34S/abstract)
 - Short GRBs: [1994-2010](http://www.ioffe.ru/LEA/shortGRBs/Catalog2/index.html) and [2011-2021](http://www.ioffe.ru/LEA/shortGRBs/Catalog3/index.html)
 - [SGRs](http://www.ioffe.ru/LEA/SGR/Catalog/index.html)
 - Solar flares: [KW+GOES](http://www.ioffe.ru/LEA/Solar/index.html), [KW-Sun triggered](http://www.ioffe.ru/LEA/kwsun/index.html), [KW-Sun non-triggered](http://www.ioffe.ru/LEA/kwsun_waiting/index.html), [KW+STIX](http://www.ioffe.ru/LEA/kw_stix/index.html), [KW+SSRT](http://www.ioffe.ru/LEA/SF_AR/KW-SSRT/index.html), [BTL](http://www.ioffe.ru/LEA/kw/wm/btl/index.html)
-- FRBs: [targeted search for counterparts](http://www.ioffe.ru/LEA/FRB/index.html)       [the paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.5580R/abstract)
+- FRBs: [targeted search for counterparts](http://www.ioffe.ru/LEA/FRB/index.html) &nbsp;&nbsp;&nbsp;с&nbsp;&nbsp; [the paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.5580R/abstract)
 
 
 ![Figure](assets/images/KW_sc.jpg)
