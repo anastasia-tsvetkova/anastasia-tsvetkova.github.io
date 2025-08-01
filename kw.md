@@ -90,11 +90,14 @@ After the triggered-mode measurements are finished, KW switches into the data-re
 
 |                                    |**Triggered**                   |**Non-triggered**| **Housekeeping** |
 |:-----------------------------------|:-------------------------------|:-----------------|:------------|
-|**Light curve** accumulation time   |T0-0.512 s to ~T0+230 s         | Continuous* | Continuous*|
-|**Light curve** time resilution     |T0-0.512 s to T0+0.512 s: 2 ms  | 2.944 s     | 3.68 s  |
+|**Light curve** accumulation time   |T0-0.512 s to ~T0+230 s         |Continuous* |Continuous*|
+|**Light curve** time resilution     |T0-0.512 s to T0+0.512 s: 2 ms  |2.944 s     |3.68 s  |
 |                                    |T0+0.512 s to ~T0+32 s: 16 ms   |             |  |
-|**Light curve** time resilution     |~T0+32 s to ~T0+90 s: 64 ms     |             |  |
-|**Light curve** time resilution     |from ~T0+90 s: 256 ms           |             |  |
+|                                    |~T0+32 s to ~T0+90 s: 64 ms     |             |  |
+|                                    |from ~T0+90 s: 256 ms           |             |  |
+|**Light curve energy band**         |G1, G2, G3                      |G1, G2, G3   |G2 |
+
+
 \* Also available in the triggered mode.
 
 ### Dead time correction
