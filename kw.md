@@ -70,7 +70,7 @@ It consists of two identical omnidirectional NaI(Tl) detectors, mounted on oppos
 One detector (S1) points toward the south ecliptic pole, thereby observing the south ecliptic hemisphere; the other (S2) observes the north ecliptic hemisphere. 
 Each detector has an effective area of ∼80–160 cm2, depending on the photon energy and incident angle.
 
-In interplanetary space far outside the Earthʼs magneto- sphere, KW has the advantages over Earth-orbiting GRB monitors of continuous coverage, uninterrupted by Earth occultation, and a steady background, undistorted by passages through Earthʼs trapped radiation, and subject only to occasional solar particle events. 
+In interplanetary space far outside the Earthʼs magnetosphere, KW has the advantages over Earth-orbiting GRB monitors of continuous coverage, uninterrupted by Earth occultation, and a steady background, undistorted by passages through Earthʼs trapped radiation, and subject only to occasional solar particle events. 
 The Wind distance from Earth as a function of time is presented in [Palʼshin et al. (2013);](https://ui.adsabs.harvard.edu/abs/2013ApJS..207...38P/abstract) it ranges up to 5.5 lt-s.
 
 The instrument has two operational modes: waiting and triggered. 
