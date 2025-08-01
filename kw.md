@@ -90,16 +90,14 @@ After the triggered-mode measurements are finished, KW switches into the data-re
 
 |                                    |**Triggered**                   |**Non-triggered**| **Housekeeping** |
 |:------------------------------------------|:---------------------------------------|:-----------------|:------------|
-|**Light curve** accumulation time   |T0-0.512 s to ~T0+230 s         |Continuous* |Continuous*|
-|**Light curve** time resilution     |T0-0.512 s to T0+0.512 s: 2 ms  |2.944 s     |3.68 s  |
-|                                    |T0+0.512 s to ~T0+32 s: 16 ms   |             |  |
-|                                    |~T0+32 s to ~T0+90 s: 64 ms     |             |  |
-|                                    |from ~T0+90 s: 256 ms           |             |  |
+|**Light curve** accumulation time   |T0-0.512 s to ~T0+230 s         |Continuous\* |Continuous\*|
+|**Light curve** time resilution     |T0-0.512 s to T0+0.512 s: 2 ms<br>T0+0.512 s to ~T0+32 s: 16 ms<br>~T0+32 s to ~T0+90 s: 64 ms<br>from ~T0+90 s: 256 ms    |2.944 s     |3.68 s  |
 |**Light curve** energy band        |G1, G2, G3                      |G1, G2, G3   |G2 |
-|**Spectral data** range              |PHA1 (13-760 keV**)<br>PHA2 ((160 keV–10 MeV**))  |Not available<br>but you can use the 3-ch light curve | Not available |
-|**Spectral data** time resolution    |Spectra 1-4: 64 ms | 2.944 s| | 
+|**Spectral data** range              |PHA1 (13-760 keV\*\*)<br>PHA2 ((160 keV–10 MeV\*\*))  |Not available<br>but you can use the 3-ch light curve | Not available |
+|**Spectral data** time resolution    |Spectra 1-4: 64 ms<br>Spectra 5-56: 0.256-8.192 s<br>Spectra 57-64: 8.192 s | 2.944 s| | 
 
 \* Also available in the triggered mode.
+
 \** Nominal values: correspond to the date of the launch.
 
 ### Dead time correction
