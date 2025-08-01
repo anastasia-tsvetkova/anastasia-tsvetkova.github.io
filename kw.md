@@ -102,6 +102,11 @@ The instrumental control of the gain became non-functional in 1997 and the spect
 The consistency of the KW spectral parameters and those obtained in other GRB experiments was verified by a cross-calibration with Swift-BAT and Suzaku-WAM [(Sakamoto et al. 2011b,)](https://ui.adsabs.harvard.edu/abs/2011PASJ...63..215S/abstract) and in joint spectral fits with Fermi-GBM. 
 It was shown that the difference in the spectrum normalization between KW and these instruments is <20% in joint fits. 
 
+#### Check out [Tsvetkova+ (2022)](https://ui.adsabs.harvard.edu/abs/2022Univ....8..373T/abstract) for a comprehensive review of the key space and gound facilities in GRB science.
+
+Show affiliations
+
+
 ## Catalogs and Data bases
 - [Triggered events](http://www.ioffe.ru/LEA/kw/triggers/)
 - [Non-triggered events](http://www.ioffe.ru/LEA/kw/wm/)
