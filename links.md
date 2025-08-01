@@ -47,7 +47,7 @@ permalink: /links/
 ### Institutional Links
 - [UniCA](https://en.unica.it/en) - University of Cagliari
 - [DSF](https://web.unica.it/unica/en/dip_fisica.page) - Department of Physics of the University of Cagliari
-- [Konus-Wind team](http://www.ioffe.ru/LEA/index.html) - Laboratory for Experimental Astrophysics at Ioffe Institute
+- [KW team](http://www.ioffe.ru/LEA/index.html) - Laboratory for Experimental Astrophysics at Ioffe Institute
 - [UniFe](https://www.unife.it/en?set_language=en) - University of Ferrara
 - [MPE](https://www.mpe.mpg.de/main) - Max Planck Institute for Extraterrestrial Physics
 
