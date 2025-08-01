@@ -95,10 +95,11 @@ After the triggered-mode measurements are finished, KW switches into the data-re
 |                                    |T0+0.512 s to ~T0+32 s: 16 ms   |             |  |
 |                                    |~T0+32 s to ~T0+90 s: 64 ms     |             |  |
 |                                    |from ~T0+90 s: 256 ms           |             |  |
-|**Light curve energy band**         |G1, G2, G3                      |G1, G2, G3   |G2 |
-
+|**Light curve** energy band        |G1, G2, G3                      |G1, G2, G3   |G2 |
+|**Spectral data** range              |PHA1 (13-760 keV**)<br>PHA2 ((160 keV–10 MeV**))  |Not available<br>but you can use the 3-ch light curve | Not available |
 
 \* Also available in the triggered mode.
+\** Nominal values: correspond to the date of the launch.
 
 ### Dead time correction
 For all the bursts, we used a standard KW dead time (DT) correction procedure for light curves (with a DT of a few μs) and spectra (with a DT of ∼42 μs). 
