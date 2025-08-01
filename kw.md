@@ -97,6 +97,7 @@ After the triggered-mode measurements are finished, KW switches into the data-re
 |                                    |from ~T0+90 s: 256 ms           |             |  |
 |**Light curve** energy band        |G1, G2, G3                      |G1, G2, G3   |G2 |
 |**Spectral data** range              |PHA1 (13-760 keV**)<br>PHA2 ((160 keV–10 MeV**))  |Not available<br>but you can use the 3-ch light curve | Not available |
+|**Spectral data** time resolution    |Spectra 1-4: 64 ms | 2.944 s| | 
 
 \* Also available in the triggered mode.
 \** Nominal values: correspond to the date of the launch.
