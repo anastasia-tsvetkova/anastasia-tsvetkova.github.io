@@ -45,11 +45,19 @@ permalink: /links/
 
 
 ### Institutional Links
-- [UniCA](https://en.unica.it/en) - University of Cagliari
-- [DSF](https://web.unica.it/unica/en/dip_fisica.page) - Department of Physics of the University of Cagliari
-- [KW team](http://www.ioffe.ru/LEA/index.html) - Laboratory for Experimental Astrophysics at Ioffe Institute
-- [UniFe](https://www.unife.it/en?set_language=en) - University of Ferrara
-- [MPE](https://www.mpe.mpg.de/main) - Max Planck Institute for Extraterrestrial Physics
+- [UniCA](https://en.unica.it/en) - University of Cagliari.
+- [DSF](https://web.unica.it/unica/en/dip_fisica.page) - Department of Physics of the University of Cagliari.
+- [KW team](http://www.ioffe.ru/LEA/index.html) - Laboratory for Experimental Astrophysics at Ioffe Institute.
+- [UniFe](https://www.unife.it/en?set_language=en) - University of Ferrara.
+- [MPE](https://www.mpe.mpg.de/main) - Max Planck Institute for Extraterrestrial Physics.
+
+### Conferences
+- [CADS](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/this-year/) - a list archived and maintained by the Canadian Astronomy Data Centre.
+- [COMS](https://conference-service.com/conferences/gravitation-and-cosmology.html) - Conference Management Software.
+- [YITP long-term workshop](https://www2.yukawa.kyoto-u.ac.jp/~mm2026/) - "Multi-Messenger Astrophysics in the Dynamic Universe", Kyoto, Japan, 26 Jan - 27 February, 2026.
+- [IAU Symposium 406](https://iaus2026-transients.utu.fi/) - "Future landscape of astrophysical transients: novel approaches in theory and observations", Turku, Finland, 18-22 May 2026.
+- [COSPAR 2026](https://cospar2026.org/) - Florence, Italy, 1-9 Aug 2026.
+
 
 ### Other Useful Links
 <!-- - [Professional Society](#)
