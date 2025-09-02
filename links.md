@@ -52,7 +52,7 @@ permalink: /links/
 - [MPE](https://www.mpe.mpg.de/main) - Max Planck Institute for Extraterrestrial Physics.
 
 ### Conferences
-- [CADS](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/this-year/) - a list archived and maintained by the Canadian Astronomy Data Centre.
+- [CADS](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/this-year/) - A list of conferences archived and maintained by the Canadian Astronomy Data Centre.
 - [COMS](https://conference-service.com/conferences/gravitation-and-cosmology.html) - Conference Management Software.
 - [YITP long-term workshop](https://www2.yukawa.kyoto-u.ac.jp/~mm2026/) - "Multi-Messenger Astrophysics in the Dynamic Universe", Kyoto, Japan, 26 Jan - 27 February 2026.
 - [IAU Symposium 406](https://iaus2026-transients.utu.fi/) - "Future landscape of astrophysical transients: novel approaches in theory and observations", Turku, Finland, 18-22 May 2026.
