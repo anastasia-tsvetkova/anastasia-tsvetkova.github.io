@@ -4,7 +4,7 @@ title: Home
 published: true 
 sitemap: true 
 ---
-
+<meta name="google-site-verification" content="8KClgStXW-4NOm3XYlCbBtfLvsNBaDcMJadWR75YwXc" />
 <style>
   .hero {
     background: 
