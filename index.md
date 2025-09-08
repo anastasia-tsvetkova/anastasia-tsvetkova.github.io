@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Home
+published: true 
+sitemap: true 
 ---
 
 <style>
@@ -32,11 +34,3 @@ Here you can find information about my research, teaching, mentoring, collaborat
     </p>
   </div>
 </div>
-
-
-<!-- ## Recent Updates
-
-- Published a new paper on [topic]
-- Awarded [grant name]
-- Joined [organization] as [position]
--->
