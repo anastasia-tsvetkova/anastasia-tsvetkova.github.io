@@ -132,10 +132,11 @@ It was shown that the difference in the spectrum normalization between KW and th
 ## Historical remarks
 Key results of the KONUS experiment aboard Venera 11-14 spacecrafts: 
 - Bimodal duration distribution of GRBs (TB is the GRB duration, N is the number of events) suggesting their various physical origins. [The paper.](https://ui.adsabs.harvard.edu/abs/1981Ap%26SS..80....3M/abstract)
-    [![Figure](assets/images/Bimodality.png){: width="500px"}](https://ui.adsabs.harvard.edu/abs/1981Ap%26SS..80....3M/abstract)
+    [![Figure](assets/images/Bimodality.png){: width="300px"}](https://ui.adsabs.harvard.edu/abs/1981Ap%26SS..80....3M/abstract)
   
 - Isotropic sky distribution of GRBs suggesting their extragalactic origin. [The paper.](https://ui.adsabs.harvard.edu/abs/1981Ap%26SS..80....3M/abstract)
-    [![Figure](assets/images/Isotropy.png){: width="300px"}](https://ui.adsabs.harvard.edu/abs/2019PhyU...62..739A/abstract)
+  
+    [![Figure](assets/images/Isotropy.png){: width="500px"}](https://ui.adsabs.harvard.edu/abs/2019PhyU...62..739A/abstract)
   
 - Correlation between the intensity of GRB emission and its spectral hardness in the same burst (the "Golenetskii relation"). [The paper.](https://ui.adsabs.harvard.edu/abs/1983Natur.306..451G/abstract)
   [![Figure](assets/images/Golenetskii_corr.png){: width="500px"}](https://ui.adsabs.harvard.edu/abs/1983Natur.306..451G/abstract)
