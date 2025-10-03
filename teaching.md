@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ## Lecturing
-+ Autumn 2024: Lecturing of a half (24 h) of the MSc course “Astrophysics” at the University of Cagliari.
++ Autumn 2024, autumn 2025: Lecturing of a half (24 h) of the MSc course “Astrophysics” at the University of Cagliari.
 
 ## Mentoring
 ### MSc projects
