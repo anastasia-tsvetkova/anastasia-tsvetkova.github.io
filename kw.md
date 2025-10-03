@@ -117,6 +117,7 @@ It was shown that the difference in the spectrum normalization between KW and th
 #### Check out [Tsvetkova+ (2022)](https://ui.adsabs.harvard.edu/abs/2022Univ....8..373T/abstract) for a comprehensive review of the key space and gound facilities in GRB science.
 
 ## Catalogs and Databases
+- [Collection of GCNs](https://gcn.nasa.gov/circulars?view=index&query=subject%3A%22Konus%22&startDate=&endDate=)
 - [Triggered events](http://www.ioffe.ru/LEA/kw/triggers/)
 - [Non-triggered events](http://www.ioffe.ru/LEA/kw/wm/)
 - GRBs with redshifts: [triggered](http://www.ioffe.ru/LEA/zGRBs/triggered/index.html) and [non-triggered+BAT](http://www.ioffe.ru/LEA/zGRBs/part2/index.html)
