@@ -45,5 +45,5 @@ Cagliari, Italy, 05/2022-04/2023.
 ### Professional Service
 - Reviewer for ApJ.
 - Co-author of 700+ GCN circulars.
-- Organization of seminars for the [SFAR project](https://www.ioffe.ru/LEA/SF_AR/webinar.html) and HERMES science team.
+- Organization of seminars for the [SFAR project](https://www.ioffe.ru/LEA/SF_AR/webinar.html) and the HERMES science team.
 <!-- - SOC for COSPAR 2026 -->
