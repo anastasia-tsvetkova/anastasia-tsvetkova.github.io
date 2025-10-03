@@ -127,16 +127,15 @@ It was shown that the difference in the spectrum normalization between KW and th
 - SFs: [KW+GOES](http://www.ioffe.ru/LEA/Solar/index.html), [KW-Sun triggered](http://www.ioffe.ru/LEA/kwsun/index.html), [KW-Sun non-triggered](http://www.ioffe.ru/LEA/kwsun_waiting/index.html), [KW+STIX](http://www.ioffe.ru/LEA/kw_stix/index.html), [KW+SSRT](http://www.ioffe.ru/LEA/SF_AR/KW-SSRT/index.html), [BTL](http://www.ioffe.ru/LEA/kw/wm/btl/index.html)
 - FRBs: [targeted search for counterparts](http://www.ioffe.ru/LEA/FRB/index.html) &nbsp;&nbsp;&nbsp; [the paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.5580R/abstract)
 
-![Figure](assets/images/KW_sc.jpg)
+![Figure](assets/images/KW_sc.jpg){: width="500px"}
 
 ## Historical remarks
 Key results of the KONUS experiment aboard Venera 11-14 spacecrafts: 
 - Bimodal duration distribution of GRBs (TB is the GRB duration, N is the number of events) suggesting their various physical origins. [The paper.](https://ui.adsabs.harvard.edu/abs/1981Ap%26SS..80....3M/abstract)
-    [![Figure](assets/images/Isotropy.png)](https://ui.adsabs.harvard.edu/abs/1981Ap%26SS..80....3M/abstract)
-  [![Figure](assets/images/grbfr1.jpeg){: width="300px"}](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
+    [![Figure](assets/images/Isotropy.png){: width="500px"}](https://ui.adsabs.harvard.edu/abs/1981Ap%26SS..80....3M/abstract)
 - Isotropic sky distribution of GRBs suggesting their extragalactic origin. [The paper.](https://ui.adsabs.harvard.edu/abs/1981Ap%26SS..80....3M/abstract)
-    [![Figure](assets/images/Bimodality.png)](https://ui.adsabs.harvard.edu/abs/2019PhyU...62..739A/abstract)
+    [![Figure](assets/images/Bimodality.png){: width="500px"}](https://ui.adsabs.harvard.edu/abs/2019PhyU...62..739A/abstract)
 - Correlation between the intensity of GRB emission and its spectral hardness in the same burst (the "Golenetskii relation"). [The paper.](https://ui.adsabs.harvard.edu/abs/1983Natur.306..451G/abstract).
-  [![Figure](assets/images/Golenetskii_corr.png)](https://ui.adsabs.harvard.edu/abs/1983Natur.306..451G/abstract)
+  [![Figure](assets/images/Golenetskii_corr.png){: width="500px"}](https://ui.adsabs.harvard.edu/abs/1983Natur.306..451G/abstract)
   
 Check out [this paper](https://ui.adsabs.harvard.edu/abs/2019PhyU...62..739A/abstract) for more details.
