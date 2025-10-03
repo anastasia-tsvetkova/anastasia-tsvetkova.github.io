@@ -6,6 +6,10 @@ permalink: /news/
 
 ## News & Updates
 
+### September 2025
+- Our paper [Time-resolved spectro-polarimetric analysis of extremely bright GRB 230307A: Possible evidence of evolution from photospheric to synchrotron dominated emission](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.172G/abstract) has been published in A&A.
+- Our paper [Observation of the spectral turnover in the afterglow emission of GRB 221009A](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A..68B/abstract) has been published in A&A.
+  
 ### July 2025
 - A 3U cubesat [239Alferov](https://spacepi.space/satellites/239-alferov/) carrying a 50 cm2 NaI gamma-spectrometer aimed at the detection of transients has been launched on July 25th. The monitor is designed to study sources of gamma radiation of extragalactic (gamma-ray bursts), galactic (flashes of neutron stars), solar (solar flares), and terrestrial origin (terrestrial gamma flashes). The spectrometer development was guided by the [KW team](http://www.ioffe.ru/LEA/index.html). 239Alferov is an educational project, called after the Nobel prize winner [Zhores Alferov](https://www.nobelprize.org/prizes/physics/2000/alferov/facts/), that involves students from two leading high schools in St. Petersburg, specializing in physics and mathematics. The students will gain knowledge about actual problems of modern high-energy astrophysics, get acquainted with methods and approaches of building gamma-ray detectors and analysing their data. The skills acquired by the students while preparing the experiment and working with its data will help to involve them in scientific, innovative, and project activities in the field of space instrumentation and data analysis.
   
