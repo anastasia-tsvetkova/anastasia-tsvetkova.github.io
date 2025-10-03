@@ -39,9 +39,10 @@ permalink: /links/
 <!-- - [DOI Lookup](https://www.doi.org/) - Find academic papers
 - [Zotero](https://www.zotero.org) - Reference manager -->
 
-### Lectures
+### Lectures and Education
 - [Astrophysical processes](https://www.youtube.com/playlist?list=PLoazzU05dPR15FY94r3USG4NISe8Vmtb_) - An amazing course of 27 lectures on Astrophysical processes delivered by [Prof. Cristiano Guidorzi](https://www.fe.infn.it/u/guidorzi/) in 2020 at the University of Ferrara.
 - [GRBs part 1](https://www.youtube.com/watch?v=FtxDT2BDDpk), [GRBs part 2](https://www.youtube.com/watch?v=vyW8PFkoHfc), and [GRBs part 3](https://www.youtube.com/watch?v=2J2jVsUGo0E) - Physics & Astrophysics of Gamma-Ray Bursts by Prof. Frédéric Daigne (IAP).
+- [Background Reading](https://annayqho.github.io/gettingstarted.html) - A collection of papers and links on Supernovae, Gamma-ray Bursts, Transients from Prof. Anna Y. Q. Ho's webpage.
 
 
 ### Institutional Links
