@@ -16,6 +16,11 @@ permalink: /cv/
 
 [Peer-reviewed papers on ADS](https://ui.adsabs.harvard.edu/public-libraries/Pkam8mgQQHuv1FsdqrzuBQ)
 
+### Metrics according to Google Scholar
+- h-index: 24
+- Total citations: 8841
+- The highest first-authorship citation: 158
+
 ### Education
 - **PhD in Physics and Mathematics** (Major: Astrophysics and Astronomy), Ioffe Institute, 09/2014-06/2018.
 - **MSc in Astrophysics**, Peter the Great St. Petersburg Polytechnic University, 09/2006-12/2008.
