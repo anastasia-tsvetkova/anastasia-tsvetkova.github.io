@@ -86,7 +86,7 @@ Spectral measurements are carried out, starting from the trigger time T0, in two
 The first four spectra are measured with a fixed accumulation time of 64 ms in order to study short bursts. 
 For the subsequent 52 spectra, an adaptive system determines the accumulation times, which may vary from 0.256 to 8.192 s depending on the current count rate in the G2 window. 
 The last 8 spectra are obtained for 8.192 s each. 
-As a result the minimum duration of spectral measurements is 79.104s, and the maximum is 491.776s (which is ∼260s longer than the time history duration). 
+As a result the minimum duration of spectral measurements is 79.104 s, and the maximum is 491.776 s (which is ∼260 s longer than the time history duration). 
 After the triggered-mode measurements are finished, KW switches into the data-readout mode for ∼1 hr and no measurements are available for this time interval.
 
 |                                   |**Triggered**                   |**Non-triggered**| **Housekeeping** |
@@ -122,11 +122,11 @@ It was shown that the difference in the spectrum normalization between KW and th
 - [Triggered events](http://www.ioffe.ru/LEA/kw/triggers/)
 - [Non-triggered events](http://www.ioffe.ru/LEA/kw/wm/)
 - GRBs with redshifts: [triggered](http://www.ioffe.ru/LEA/zGRBs/triggered/index.html) and [non-triggered+BAT](http://www.ioffe.ru/LEA/zGRBs/part2/index.html)
-- [The Second Catalog of IPN Localizations of KW Short GRBs](http://www.ioffe.ru/LEA/ShortGRBs_IPN/index.html) &nbsp;&nbsp;&nbsp; [the paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...34S/abstract)
+- [The Second Catalog of IPN Localizations of KW Short GRBs](http://www.ioffe.ru/LEA/ShortGRBs_IPN/index.html) &nbsp;&nbsp;&nbsp; [The paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...34S/abstract)
 - Short GRBs: [1994-2010](http://www.ioffe.ru/LEA/shortGRBs/Catalog2/index.html) and [2011-2021](http://www.ioffe.ru/LEA/shortGRBs/Catalog3/index.html)
 - SGRs: [1978-2000](http://www.ioffe.ru/LEA/SGR/Catalog/index.html), [Online Magnetar Catalog](https://www.ioffe.ru/LEA/SGR/index.html)
 - SFs: [KW+GOES](http://www.ioffe.ru/LEA/Solar/index.html), [KW-Sun triggered](http://www.ioffe.ru/LEA/kwsun/index.html), [KW-Sun non-triggered](http://www.ioffe.ru/LEA/kwsun_waiting/index.html), [KW+STIX](http://www.ioffe.ru/LEA/kw_stix/index.html), [KW+SSRT](http://www.ioffe.ru/LEA/SF_AR/KW-SSRT/index.html), [BTL](http://www.ioffe.ru/LEA/kw/wm/btl/index.html)
-- FRBs: [targeted search for counterparts](http://www.ioffe.ru/LEA/FRB/index.html) &nbsp;&nbsp;&nbsp; [the paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.5580R/abstract)
+- FRBs: [targeted search for counterparts](http://www.ioffe.ru/LEA/FRB/index.html) &nbsp;&nbsp;&nbsp; [The paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.5580R/abstract)
 
 ![Figure](assets/images/KW_sc.jpg){: width="500px"}
 
