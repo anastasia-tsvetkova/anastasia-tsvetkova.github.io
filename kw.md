@@ -69,6 +69,7 @@ Konus-Wind (hereafter KW; [Aptekar et al. 1995](https://ui.adsabs.harvard.edu/ab
 It consists of two identical omnidirectional NaI(Tl) detectors, mounted on opposite faces of the rotationally stabilized Wind spacecraft. 
 One detector (S1) points toward the south ecliptic pole, thereby observing the south ecliptic hemisphere; the other (S2) observes the north ecliptic hemisphere. 
 Each detector has an effective area of ∼80–160 cm2, depending on the photon energy and incident angle.
+Check out [this paper](https://ui.adsabs.harvard.edu/abs/1995SSRv...71...23H/abstract) to get more details on the spacecraft design.
 
 ### Orbit
 As for now, the instrument operates in orbit around the Lagrange point L1.
