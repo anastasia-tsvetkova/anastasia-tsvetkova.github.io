@@ -64,3 +64,8 @@ permalink: /teaching/
   MSc Thesis: Spectral analysis of short GRBs detected by Fermi/GBM
   
   Spring 2023
+
+## Outreach
++ Open days for students at the University of Cagliari
+
+  December of 2023, 2024, 2025
