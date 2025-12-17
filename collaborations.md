@@ -18,6 +18,9 @@ Filippo Frontera, Cristiano Guidorzi, Lorenzo Amati, Mattia Bulla, Romain Loic M
 ### INAF/Palermo + UniPa team
 Luciano Burderi, Tiziana di Salvo, Wladimiro Leone.
 
+### UNAM
+Rosa Leticia Becera Godínez.
+
 ### GSSI team
 Gor Oganesyan, Biswajit Banerjee, Alessio Mei.
 
