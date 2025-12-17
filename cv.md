@@ -17,9 +17,9 @@ permalink: /cv/
 [Peer-reviewed papers on ADS](https://ui.adsabs.harvard.edu/public-libraries/Pkam8mgQQHuv1FsdqrzuBQ)
 
 ### Metrics according to Google Scholar
-- h-index: 24
-- Total citations: 8841
-- The highest first-authorship citation: 158
+- h-index: 25
+- Total citations: 9194
+- The highest first-authorship citation: 162
 
 ### Education
 - **PhD in Physics and Mathematics** (Major: Astrophysics and Astronomy), Ioffe Institute, 09/2014-06/2018.
