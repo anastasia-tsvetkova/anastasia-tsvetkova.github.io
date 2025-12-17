@@ -19,7 +19,7 @@ Filippo Frontera, Cristiano Guidorzi, Lorenzo Amati, Mattia Bulla, Romain Loic M
 Luciano Burderi, Tiziana di Salvo, Wladimiro Leone.
 
 ### UNAM
-Rosa Leticia Becera Godínez.
+Rosa Leticia Becerra Godínez.
 
 ### GSSI team
 Gor Oganesyan, Biswajit Banerjee, Alessio Mei.
