@@ -12,14 +12,14 @@ permalink: /cv/
 
 
 
-<!--[Download PDF version of CV](/assets/docs/cv.pdf)-->
+[Download PDF version of CV](/assets/docs/cv.pdf)
 
 [Peer-reviewed papers on ADS](https://ui.adsabs.harvard.edu/public-libraries/Pkam8mgQQHuv1FsdqrzuBQ)
 
 ### Metrics according to Google Scholar
-- h-index: 25
-- Total citations: 9194
-- The highest first-authorship citation: 162
+- h-index: 26
+- Total citations: 6944
+- The highest first-authorship citation: 178
 
 ### Education
 - **PhD in Physics and Mathematics** (Major: Astrophysics and Astronomy), Ioffe Institute, 09/2014-06/2018.
@@ -34,7 +34,7 @@ Cagliari, Italy, 05/2022-04/2023.
 - **Postdoctoral Researcher**, High-Energy Astrophysics Group, Max Planck Institute for Extraterrestrial Physics, Garching bei München, Germany, 10/2020-12/2021.
 - **Researcher**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 01/2019-09/2020.
 - **Junior Researcher**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 09/2010-12/2018.
-- **Research Assistant** , Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 07/2008-08/2010.
+- **Research Assistant**, Laboratory for Experimental Astrophysics (Konus-Wind team), Ioffe Institute, St. Petersburg, Russia, 07/2008-08/2010.
 
 ### Selected Publications
 - [The Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
