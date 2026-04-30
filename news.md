@@ -12,6 +12,7 @@ permalink: /news/
 ### January 2026
 - Our paper [GRB 250702B: discovery of a gamma-ray burst from a black hole falling into a star](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2019N/abstract) has been published in MNRAS.
 - Our paper [Exploring the connection between compact object mergers and fast X-ray transients: The cases of LXT 240402A and EP250207b](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.233B/abstract) has been published in A&A.
+- The educational 3U CubeSat mission 239Alferov started observing the gamma-sky detecting [GRB 260101A](https://gcn.nasa.gov/circulars/43481) and [GRB 260121A](https://gcn.nasa.gov/circulars/43612) and contributing to the [IPN triangulation of GRB 260121A](https://gcn.nasa.gov/circulars/43564).
 
 ### October 2025
 - Our paper [Gamma-ray burst minimum variability timescales with Fermi/GBM](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A..95M/abstract) has been published in A&A.
