@@ -119,7 +119,7 @@ It was shown that the difference in the spectrum normalization between KW and th
 ## Highlights
 - KW observed BOAT, the brightest GRB detected by KW for >28 yrs of observations: [Properties of the Extremely Energetic GRB 221009A from Konus-WIND and SRG/ART-XC Observations](https://ui.adsabs.harvard.edu/abs/2023ApJ...949L...7F/abstract).
   
-- A Giant flare (GF) kept KW saturated for almost 150 s, while Coronas-F/Helicon, a member of the "Konus" family, was shadowed from SGR 1806-20 by the Earth and detected the GF Compton refleaction from the Moon: [Giant flare in SGR 1806-20 and its Compton reflection from the Moon](https://ui.adsabs.harvard.edu/abs/2007AstL...33....1F/abstract).
+- A Giant flare (GF) kept KW saturated for almost 150 s, while Coronas-F/Helicon, a member of the "Konus" family, was shadowed from SGR 1806-20 by the Earth and detected the GF Compton reflection from the Moon: [Giant flare in SGR 1806-20 and its Compton reflection from the Moon](https://ui.adsabs.harvard.edu/abs/2007AstL...33....1F/abstract).
 
 - Konus is a key instrument for the InterPlanetary Network [(IPN)](https://heasarc.gsfc.nasa.gov/docs/heasarc/missions/ipn.html).
 
