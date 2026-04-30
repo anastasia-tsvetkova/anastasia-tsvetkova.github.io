@@ -9,21 +9,21 @@ permalink: /teaching/
 
 ## Mentoring
 ### MSc projects
-+ Student: Valeria Ishutina, Peter the Great St. Petersburg Polytechnic University
+<!-- + Student: Valeria Ishutina, Peter the Great St. Petersburg Polytechnic University
 
   Thesis: Properties of light curves of GRBs observed by Konus-Wind
 
-  Autumn 2024–present
+  Autumn 2024–present -->
 
 + Student: Sofia Belova, Peter the Great St. Petersburg Polytechnic University
 
-  Thesis: Joint spectral analysis of Konus-Wind and BeppoSAX /WFC GRBs
+  Thesis: Joint spectral analysis of Konus-Wind and BeppoSAX/WFC GRBs and studies of KW GRB PDFs.
 
   Autumn 2024–present
   
 + Student: Fyodor Sviridov, Alferov University (St. Petersburg)
 
-  Thesis: Cross-calibration of Konus-Wind, Fermi/GBM, and Swift/BAT detectors using simultaneously detected GRBs
+  Thesis: Studies of GRB MVTs and spectral analysis of GBM GRBs.
 
   Autumn 2024–present
   
@@ -48,13 +48,13 @@ permalink: /teaching/
 
 + Student: Polina Krupina, Peter the Great St. Petersburg Polytechnic University
 
-  Thesis: Spectral analysis of Fermi/GBM GRBs with measured redshifts
+  Thesis: Cross-calibration of Konus-Wind, Fermi/GBM, and Swift/BAT detectors using simultaneously detected GRBs
 
   Autumn 2024–present
   
 + Student: Julia Epifanova, Peter the Great St. Petersburg Polytechnic University
 
-  Thesis: Distribution of the number of peaks within a long GRBs as observed by Konus-Wind
+  Thesis: Studies of KW GRB LCs with MEPSA
 
   Autumn 2024–present
 
