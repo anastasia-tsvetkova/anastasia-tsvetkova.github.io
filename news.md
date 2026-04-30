@@ -6,6 +6,16 @@ permalink: /news/
 
 ## News & Updates
 
+### April 2026
+- Our paper [The hidden population of long gamma-ray bursts from compact object mergers](https://ui.adsabs.harvard.edu/abs/2026A%26A...708L..18M/abstract) has been published in A&A.
+
+### January 2026
+- Our paper [GRB 250702B: discovery of a gamma-ray burst from a black hole falling into a star](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2019N/abstract) has been published in MNRAS.
+- Our paper [Exploring the connection between compact object mergers and fast X-ray transients: The cases of LXT 240402A and EP250207b](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.233B/abstract) has been published in A&A.
+
+### October 2025
+- Our paper [Gamma-ray burst minimum variability timescales with Fermi/GBM](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A..95M/abstract) has been published in A&A.
+
 ### September 2025
 - Our paper [Time-resolved spectro-polarimetric analysis of extremely bright GRB 230307A: Possible evidence of evolution from photospheric to synchrotron dominated emission](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.172G/abstract) has been published in A&A.
 - Our paper [Observation of the spectral turnover in the afterglow emission of GRB 221009A](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A..68B/abstract) has been published in A&A.
