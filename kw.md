@@ -126,6 +126,11 @@ It was shown that the difference in the spectrum normalization between KW and th
 - SGRs: [1978-2000](http://www.ioffe.ru/LEA/SGR/Catalog/index.html), [Online Magnetar Catalog](https://www.ioffe.ru/LEA/SGR/index.html)
 - SFs: [KW+GOES](http://www.ioffe.ru/LEA/Solar/index.html), [KW-Sun triggered](http://www.ioffe.ru/LEA/kwsun/index.html), [KW-Sun non-triggered](http://www.ioffe.ru/LEA/kwsun_waiting/index.html), [KW+STIX](http://www.ioffe.ru/LEA/kw_stix/index.html), [KW+SSRT](http://www.ioffe.ru/LEA/SF_AR/KW-SSRT/index.html), [BTL](http://www.ioffe.ru/LEA/kw/wm/btl/index.html)
 - FRBs: [targeted search for counterparts](http://www.ioffe.ru/LEA/FRB/index.html) &nbsp;&nbsp;&nbsp; [The paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.5580R/abstract)
+- [Ultra-long GRB candidates](http://www.ioffe.ru/LEA/kw/wm/ulong/index.html)
+- [Multi-episode GRBs](http://www.ioffe.ru/LEA/kw/multiepisode/index.html)
+- [Konus-RF](http://www.ioffe.ru/LEA/krf/index.html) [database](https://www.ioffe.ru/LEA/krf/krfdata.html)
+- [List of the solar flares](https://www.ioffe.ru/LEA/helicon/solar.html) detected by [CORONAS-F/Helicon](https://www.ioffe.ru/LEA/helicon/index.html)
+- [IPN localizations with KW](https://www.ioffe.ru/LEA/ipn/index.html)
 
 ![Figure](assets/images/KW_sc.jpg){: width="500px"}
 
