@@ -121,7 +121,7 @@ It was shown that the difference in the spectrum normalization between KW and th
   
 - A Giant flare (GF) kept KW saturated for almost 150 s, while Coronas-F/Helicon, a member of the "Konus" family, was shadowed from SGR 1806-20 by the Earth and detected the GF Compton reflection from the Moon: [Giant flare in SGR 1806-20 and its Compton reflection from the Moon](https://ui.adsabs.harvard.edu/abs/2007AstL...33....1F/abstract).
 
-- Konus is a key instrument for the InterPlanetary Network [(IPN)](https://heasarc.gsfc.nasa.gov/docs/heasarc/missions/ipn.html).
+- KW is a key instrument for the InterPlanetary Network [(IPN)](https://heasarc.gsfc.nasa.gov/docs/heasarc/missions/ipn.html).
 
 ## Catalogs and Databases
 - [Collection of GCNs](https://gcn.nasa.gov/circulars?view=index&query=subject%3A%22Konus%22&startDate=&endDate=)
