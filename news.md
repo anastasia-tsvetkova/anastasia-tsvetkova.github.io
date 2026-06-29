@@ -6,6 +6,12 @@ permalink: /news/
 
 ## News & Updates
 
+### June 2026
+A new [web page](https://www.ioffe.ru/LEA/239Alferov/index.html) for the 239Alferov mission has been inaugurated.
+
+### May 2026
+- Our paper [Episode-wise spectropolarimetry of GRB 220107A: Testing the hypothesis of evolving radiation mechanisms](https://ui.adsabs.harvard.edu/abs/2026A%26A...709A.222G/abstract) has been published in A&A.
+
 ### April 2026
 - Our paper [The hidden population of long gamma-ray bursts from compact object mergers](https://ui.adsabs.harvard.edu/abs/2026A%26A...708L..18M/abstract) has been published in A&A.
 
