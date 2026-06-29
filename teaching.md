@@ -19,13 +19,13 @@ permalink: /teaching/
 
   Thesis: Joint spectral analysis of Konus-Wind and BeppoSAX/WFC GRBs and studies of KW GRB PDFs.
 
-  Autumn 2024–present
+  Autumn 2024–Spring 2026
   
 + Student: Fyodor Sviridov, Alferov University (St. Petersburg)
 
   Thesis: Studies of GRB MVTs and spectral analysis of GBM GRBs.
 
-  Autumn 2024–present
+  Autumn 2024–Spring 2026
   
 ### BSc projects
 + Student: Valeria Ishutina (Ivanova), Peter the Great St. Petersburg Polytechnic University
@@ -50,13 +50,13 @@ permalink: /teaching/
 
   Thesis: Cross-calibration of Konus-Wind, Fermi/GBM, and Swift/BAT detectors using simultaneously detected GRBs
 
-  Autumn 2024–present
+  Autumn 2024–Spring 2026
   
 + Student: Julia Epifanova, Peter the Great St. Petersburg Polytechnic University
 
   Thesis: Studies of KW GRB LCs with MEPSA
 
-  Autumn 2024–present
+  Autumn 2024–Spring 2026
 
 ## Thesis reviewing
 + Student: Nadezhda Lyashenko, Peter the Great St. Petersburg Polytechnic University
