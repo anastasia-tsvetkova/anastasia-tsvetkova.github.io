@@ -8,7 +8,7 @@ permalink: /news/
 
 ### June 2026
 ![Figure](assets/images/images.jfif){: width="300px"}
-- KW junior team students have received their degrees: Fyodor Sviridov (MSc), Julia Epifanova (BSc), Sofia Belova (MSc), and Polina Krupina (BSc).
+- [KW junior team](collaborations/) students have received their degrees: Fyodor Sviridov (MSc), Julia Epifanova (BSc), Sofia Belova (MSc), and Polina Krupina (BSc).
 All four have successfully passed the viva voce exams for their theses under my supervision, all with the highest grade.
 
 [![Figure](assets/images/239Alferov_render_small.png){: width="300px"}](https://www.ioffe.ru/LEA/239Alferov/index.html)
