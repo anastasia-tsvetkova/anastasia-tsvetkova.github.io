@@ -18,8 +18,8 @@ permalink: /cv/
 
 ### Metrics according to Google Scholar
 - h-index: 26
-- Total citations: 6944
-- The highest first-authorship citation: 179
+- Total citations: 7190
+- The highest first-authorship citation: 182
 
 ### Education
 - **PhD in Physics and Mathematics** (Major: Astrophysics and Astronomy), Ioffe Institute, 09/2014-06/2018.
