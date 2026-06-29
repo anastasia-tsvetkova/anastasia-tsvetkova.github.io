@@ -10,6 +10,7 @@ permalink: /news/
 - KW juior team students have got thir degrees: Fyodor Sviridov (MSc), Julia Epifanova (BSc), Sofia Belova (MSc), and Polina Krupina (BSc) defended their course works under my supervision witha highest grade.
 [![Figure](assets/images/images.jfif){: width="300px"}]
 - A new [web page](https://www.ioffe.ru/LEA/239Alferov/index.html) for the 239Alferov mission has been inaugurated. Check it out for the mission detail and the list of detected bursts.
+[![Figure](assets/images/239Alferov_render_small.png){: width="300px"}](https://www.ioffe.ru/LEA/239Alferov/index.html)
 
 ### May 2026
 - Our paper [Episode-wise spectropolarimetry of GRB 220107A: Testing the hypothesis of evolving radiation mechanisms](https://ui.adsabs.harvard.edu/abs/2026A%26A...709A.222G/abstract) has been published in A&A.
