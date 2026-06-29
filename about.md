@@ -14,4 +14,4 @@ As a PhD student, I mostly focused on studies of GRBs with known redshifts detec
 During my postdoc at the Ioffe Institute, I carried out a joint KW + Swift/BAT spectral analysis of GRBs with known redshifts.
 My work in the High-Energy Astrophysics Group at the [Max Planck Institute for Extraterrestrial Physics](https://www.mpe.mpg.de/main) was focused on cross-calibration of KW, Fermi/GBM, and BAT data.
 As a postdoc and later a fixed-term Assistant Professor in the High-Energy Astrophysics Group at the [University of Cagliari](https://en.unica.it/en), I continued the GRB population studies focused on their rest-frame classification, broadband spectral analysis, and comprehensive properties of their light curves. 
-I also got a chance to dive into a magical world of Quantum Gravity and its applications to GRBs.
+I also had the chance to dive into a magical world of Quantum Gravity and its applications to GRBs.
