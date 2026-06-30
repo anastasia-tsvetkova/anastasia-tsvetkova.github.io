@@ -21,6 +21,7 @@ permalink: /links/
 - [FERMIGBRST](https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html) - Fermi GBM Burst Catalog
 - [GCN](https://gcn.nasa.gov/circulars) - GCN circulars
 - [239Alferov](https://www.ioffe.ru/LEA/239Alferov/index.html)
+- [Dmitry Svinkin's IPN table](https://www.ioffe.ru/LEA/ds/ipn/)
 
 ### GRBs with redshifts
 - [KW triggered](http://www.ioffe.ru/LEA/zGRBs/triggered/index.html) - The Konus-Wind Catalog of Gamma-Ray Bursts with Known Redshifts. I. Bursts Detected in the Triggered Mode
