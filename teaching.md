@@ -17,7 +17,7 @@ permalink: /teaching/
 
 + Student: Sofia Belova, Peter the Great St. Petersburg Polytechnic University
 
-  Thesis: Joint spectral analysis of Konus-Wind and BeppoSAX/WFC GRBs and studies of KW GRB PDFs.
+  Thesis: Joint spectral analysis of Konus-Wind and BeppoSAX/WFC GRBs and studies of  Konus-Wind GRB PDFs.
 
   Autumn 2024–Spring 2026
   
