@@ -12,17 +12,17 @@ Dmitry Frederiks, Dmitry Svinkin, Anna Ridnaia, Alexandra Lysenko, Mikhail Ulano
 
 [Students](/teaching.md) from left to right: Polina Krupina, Sofia Belova, Fyodor Sviridov, Valeria Ishutina, Julia Epifanova.
 
-### UniFe + INAF-Bologna team
+### UniFe + INAF-Bologna
 Filippo Frontera, Cristiano Guidorzi, Lorenzo Amati, Mattia Bulla, Romain Loic Maccary, Manuele Maistrello.
 
-### INAF/Palermo + UniPa team
+### INAF/Palermo + UniPa
 Luciano Burderi, Tiziana di Salvo, Wladimiro Leone.
 
 ### UNAM
 Rosa Leticia Becerra Godínez.
 
-### GSSI team
-Gor Oganesyan, Biswajit Banerjee, Alessio Mei.
+### GSSI
+Gor Oganesyan, Biswajit Banerjee
 
 ### INAF-OAB
 Alessio Mei, Michela Maria Dinatolo
