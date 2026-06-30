@@ -24,5 +24,8 @@ Rosa Leticia Becerra Godínez.
 ### GSSI team
 Gor Oganesyan, Biswajit Banerjee, Alessio Mei.
 
+### INAF-OAB
+Alessio Mei, Michela Maria Dinatolo
+
 ### Solar flares
 Gregory D. Fleishman, Alexandra Lysenko, Galina Motorina.
