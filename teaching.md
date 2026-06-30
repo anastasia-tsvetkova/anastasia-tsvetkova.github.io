@@ -23,7 +23,7 @@ permalink: /teaching/
   
 + Student: Fyodor Sviridov, Alferov University (St. Petersburg)
 
-  Thesis: Studies of GRB MVTs and spectral analysis of GBM GRBs.
+  Thesis: Studies of GRB MVTs and spectral analysis of Fermi/GBM GRBs.
 
   Autumn 2024–Spring 2026
   
