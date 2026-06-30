@@ -54,7 +54,7 @@ permalink: /teaching/
   
 + Student: Julia Epifanova, Peter the Great St. Petersburg Polytechnic University
 
-  Thesis: Studies of KW GRB LCs with MEPSA
+  Thesis: Studies of Konus-Wind GRB light curves with MEPSA
 
   Autumn 2024–Spring 2026
 
