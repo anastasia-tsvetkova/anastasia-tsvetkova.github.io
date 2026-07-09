@@ -8,6 +8,9 @@ permalink: /teaching/
 + Autumn 2024, Autumn 2025: Lecturing of a half (24 h) of the MSc course “Astrophysics” (Astrophysical processes) at the University of Cagliari.
 
 ## Mentoring
+![photo](/assets/images/photo_students2026.jpg){: width="300"}
+From left to right: Polina Krupina, Sofia Belova, Fyodor Sviridov, Valeria Ishutina, Julia Epifanova.
+ 
 ### MSc projects
 <!-- + Student: Valeria Ishutina, Peter the Great St. Petersburg Polytechnic University
 
