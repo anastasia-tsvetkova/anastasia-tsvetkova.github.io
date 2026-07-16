@@ -6,6 +6,17 @@ permalink: /research/
 
 ## Selected Research Projects
 
+### Current Projects
+
+#### KW+WFC GRBs: Inspecting the low-energy spectral breaks.
+Study almost completed, manuscript in progress.
+
+#### KW MVT : Haar's wavelets, MEPSA, ans BBs.
+Study completed, manuscript pending.
+
+#### Cross-calibration of KW, GBM, BAT, and GRM using simultaneously detected GRBs.
+Spectral fits of KW+BAT+GBM almost completed, pending the GRM data.
+
 ### Primary Research Area
 
 [**KW GRBs with known redshifts detected in the triggered mode**](https://ui.adsabs.harvard.edu/abs/2017ApJ...850..161T/abstract)
