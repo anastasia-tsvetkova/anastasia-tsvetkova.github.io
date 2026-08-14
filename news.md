@@ -9,7 +9,7 @@ permalink: /news/
 ### July 2026
 - 🎉 On July 25th, we celebrate one year in orbit of the [239Alferov mission](https://www.ioffe.ru/LEA/239Alferov/)! 🛰️✨
 Over the past year, this 3U CubeSat mission has been working hard in space, collecting data and showing just how much can be achieved with a tiny educational satellite.
-A huge thank you to everyone who made this mission possible — from the amateurs and high-school students to the engineers and scientists who built it, to the teams operating it every day. 
+A huge thank you to everyone who made this mission possible — from the amateurs and high-school students to the engineers and scientists who built it. 
 Here is to another year of discoveries, successful observations, and exciting science! 🚀🥳
 
 - [NASA and ESA facilities avoid major damage from wildfires in Spain.](https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/)
