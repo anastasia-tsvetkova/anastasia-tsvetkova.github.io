@@ -6,6 +6,16 @@ permalink: /news/
 
 ## News & Updates
 
+### July 2026
+- 🎉 On July 25th, we celebrate one year in orbit of the [239Alferov mission](https://www.ioffe.ru/LEA/239Alferov/)! 🛰️✨
+Over the past year, this 3U CubeSat mission has been working hard in space, collecting data and showing just how much can be achieved with a tiny educational satellite.
+A huge thank you to everyone who made this mission possible — from the amateurs and high-school students to the engineers and scientists who built it, to the teams operating it every day. 
+Here is to another year of discoveries, successful observations, and exciting science! 🚀🥳
+
+- [NASA and ESA facilities avoid major damage from wildfires in Spain.](https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/)
+
+  Spain’s devastating wildfires in July 2026 came dangerously close to major NASA and ESA deep-space facilities near Madrid, forcing evacuations and temporarily disrupting operations. Fortunately, the facilities avoided major damage, but the disruption affected data transfer from the Konus-Wind mission, which relies on NASA’s Deep Space Network, resulting in gaps in the data received from the spacecraft.
+
 ### June 2026
 ![Figure](assets/images/images.jfif){: width="300px"}
 - [KW junior team](/collaborations/) students have received their degrees: Fyodor Sviridov (MSc), Julia Epifanova (BSc), Sofia Belova (MSc), and Polina Krupina (BSc).
